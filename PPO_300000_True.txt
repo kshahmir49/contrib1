@@ -1,0 +1,3012 @@
+Executing the program with the following arguments
+ArgumentParser(prog='main.py', usage=None, description='crowd evacuation', formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+Namespace(aoi_size=100, load_pretrained=1, policy_type='PPO', time_steps=300000)
+Using GPU
+Selected target is  target3
+Loading the PPO model...
+Wrapping the env with a `Monitor` wrapper
+Wrapping the env in a DummyVecEnv.
+Wrapping the env in a VecTransposeImage.
+Starting the Evaluation....
+Selected target is  target4
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  57
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  56
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  42
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  51
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  6
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 15 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 17 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  43
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  52
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  7
+Selected target is  target2
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  4
+Selected target is  target1
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  34
+Selected target is  target3
+Agent has reached target3 after 3 steps.
+The episodic return is  27
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  53
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  35
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  4
+Selected target is  target2
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  4
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  54
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  41
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 5 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 3 steps.
+The episodic return is  33
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 16 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 15 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  44
+Selected target is  target3
+Agent has reached target3 after 14 steps.
+The episodic return is  61
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  5
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  45
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  4
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  55
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 7 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  36
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  30
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  37
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  62
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  6
+Selected target is  target4
+Agent has reached target3 after 16 steps.
+The episodic return is  8
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 15 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  34
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  59
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  60
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  31
+Selected target is  target2
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  46
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  64
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 5 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 15 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  39
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  57
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  39
+Selected target is  target3
+Agent has reached target3 after 12 steps.
+The episodic return is  57
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  56
+Selected target is  target4
+Agent has reached target3 after 16 steps.
+The episodic return is  5
+Selected target is  target3
+Agent has reached target3 after 3 steps.
+The episodic return is  24
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  6
+Selected target is  target3
+Agent has reached target3 after 13 steps.
+The episodic return is  67
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  44
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 15 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 3 steps.
+The episodic return is  25
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  36
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  52
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  36
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  5
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  34
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  62
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  5
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  4
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  51
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  40
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  40
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  45
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 16 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  35
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 5 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 12 steps.
+The episodic return is  58
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  42
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  71
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  26
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  36
+Selected target is  target1
+Agent has reached target3 after 17 steps.
+The episodic return is  11
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 15 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  36
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  5
+Selected target is  target3
+Agent has reached target3 after 13 steps.
+The episodic return is  46
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  45
+Selected target is  target2
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  36
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  44
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  36
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  50
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 6 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 6 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 16 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  39
+Selected target is  target4
+Agent has reached target3 after 6 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 5 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 12 steps.
+The episodic return is  50
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 16 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  60
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  63
+Selected target is  target2
+Agent has reached target3 after 16 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  45
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  74
+Selected target is  target3
+Agent has reached target3 after 12 steps.
+The episodic return is  66
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has collided with fire after 11 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  45
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 12 steps.
+The episodic return is  64
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  66
+Selected target is  target2
+Agent has reached target3 after 15 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 15 steps.
+The episodic return is  4
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  29
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 15 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  4
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 17 steps.
+The episodic return is  12
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  29
+Selected target is  target3
+Agent has reached target3 after 13 steps.
+The episodic return is  50
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 8 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  36
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  57
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  47
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  40
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  50
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  53
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  5
+Selected target is  target4
+Agent has reached target3 after 15 steps.
+The episodic return is  6
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  40
+Selected target is  target2
+Agent has collided with fire after 6 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target3 after 13 steps.
+The episodic return is  52
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  35
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  58
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 5 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 6 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  6
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  4
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  53
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 17 steps.
+The episodic return is  4
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  44
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  6
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 15 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  4
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  6
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  32
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  36
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  36
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  45
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 14 steps.
+The episodic return is  50
+Selected target is  target2
+Agent has collided with fire after 12 steps.
+The episodic return is  -997
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  62
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  39
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  44
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  46
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  30
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  48
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  51
+Selected target is  target3
+Agent has reached target3 after 12 steps.
+The episodic return is  49
+Selected target is  target2
+Agent has reached target3 after 17 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 6 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  5
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  46
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 8 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  53
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  27
+Selected target is  target2
+Agent has reached target3 after 15 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  42
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  45
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  56
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  41
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  52
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  42
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 5 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  44
+Selected target is  target2
+Agent has reached target3 after 6 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 11 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  50
+Selected target is  target3
+Agent has reached target3 after 14 steps.
+The episodic return is  46
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  45
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  42
+Selected target is  target2
+Agent has reached target3 after 15 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  32
+Selected target is  target4
+Agent has reached target3 after 15 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 15 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 6 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  49
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  39
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  49
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  39
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  44
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  39
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  4
+Selected target is  target1
+Agent has reached target3 after 6 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 8 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 6 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 11 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  47
+Selected target is  target4
+Agent has reached target3 after 18 steps.
+The episodic return is  7
+Selected target is  target1
+Agent has reached target3 after 6 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 7 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  5
+Selected target is  target1
+Agent has reached target3 after 6 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 3 steps.
+The episodic return is  31
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  60
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  40
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  4
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  36
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  29
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 13 steps.
+The episodic return is  49
+Selected target is  target3
+Agent has reached target3 after 12 steps.
+The episodic return is  60
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  44
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  55
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  45
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  51
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  4
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  29
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  35
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 18 steps.
+The episodic return is  9
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  8
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  50
+Selected target is  target1
+Agent has reached target3 after 15 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  49
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  52
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  6
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  54
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  60
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  62
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  32
+Selected target is  target4
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  47
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  43
+Selected target is  target3
+Agent has reached target3 after 12 steps.
+The episodic return is  54
+Selected target is  target4
+Agent has reached target3 after 5 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 6 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  50
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  45
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  29
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  41
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  36
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  58
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 15 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 15 steps.
+The episodic return is  6
+Selected target is  target2
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  53
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 12 steps.
+The episodic return is  45
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  33
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  50
+Selected target is  target2
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 15 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 15 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  50
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  35
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  42
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  40
+Selected target is  target2
+Agent has reached target3 after 16 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  55
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  40
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  42
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 16 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  41
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  44
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 14 steps.
+The episodic return is  47
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 5 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 6 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 16 steps.
+The episodic return is  6
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 14 steps.
+The episodic return is  61
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 8 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  55
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  27
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  39
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  55
+Selected target is  target3
+Agent has reached target3 after 12 steps.
+The episodic return is  57
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  39
+Selected target is  target1
+Agent has reached target3 after 8 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 6 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  35
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  51
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  43
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  36
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  4
+Selected target is  target2
+Agent has reached target3 after 17 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  5
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 8 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  43
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has collided with fire after 11 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target3 after 6 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 6 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  36
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 6 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  51
+Selected target is  target1
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 15 steps.
+The episodic return is  6
+Selected target is  target3
+Agent has reached target3 after 3 steps.
+The episodic return is  22
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  44
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 12 steps.
+The episodic return is  48
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  6
+Selected target is  target2
+Agent has reached target3 after 15 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  29
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  6
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  56
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  53
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  64
+Selected target is  target3
+Agent has reached target3 after 12 steps.
+The episodic return is  41
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  32
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  53
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  47
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  4
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  62
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  37
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  57
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  40
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  42
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  54
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  98
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  5
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 13 steps.
+The episodic return is  43
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  48
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  60
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  42
+Selected target is  target1
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 5 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 11 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  29
+Selected target is  target2
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  59
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  4
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  43
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 14 steps.
+The episodic return is  62
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  4
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  37
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  6
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  42
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  7
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 13 steps.
+The episodic return is  52
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 3 steps.
+The episodic return is  24
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  44
+Selected target is  target1
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  4
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  43
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  4
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  52
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  46
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 17 steps.
+The episodic return is  5
+Selected target is  target4
+Agent has reached target3 after 6 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  33
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  5
+Selected target is  target2
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 5 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  29
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 17 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  4
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  6
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 15 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 16 steps.
+The episodic return is  6
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  4
+Selected target is  target2
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 5 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 6 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has reached target3 after 16 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  47
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  51
+Selected target is  target4
+Agent has reached target3 after 15 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  32
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  29
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  56
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  36
+Selected target is  target3
+Agent has reached target3 after 3 steps.
+The episodic return is  49
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 16 steps.
+The episodic return is  6
+Selected target is  target3
+Agent has reached target3 after 3 steps.
+The episodic return is  49
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has collided with fire after 11 steps.
+Agent has reached target3 after 11 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  4
+Selected target is  target2
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  38
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  53
+Selected target is  target2
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 10 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  27
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  31
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  32
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  77
+Selected target is  target4
+Agent has reached target3 after 17 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  42
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  35
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  35
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  45
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  29
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  38
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 15 steps.
+The episodic return is  4
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  35
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  7
+Selected target is  target1
+Agent has reached target3 after 15 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  33
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 3 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  42
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  39
+Selected target is  target3
+Agent has reached target3 after 14 steps.
+The episodic return is  47
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  5
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  5
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  45
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 16 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  53
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  54
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  34
+Selected target is  target1
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  44
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  5
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  50
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  45
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  37
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  43
+Selected target is  target4
+Agent has reached target3 after 15 steps.
+The episodic return is  8
+Selected target is  target4
+Agent has reached target3 after 15 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 15 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  42
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  57
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  4
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  36
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 6 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  7
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 15 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 15 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  4
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  6
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  55
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  35
+Selected target is  target2
+Agent has reached target3 after 15 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  44
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  28
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  38
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  71
+Selected target is  target2
+Agent has reached target3 after 15 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  45
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 5 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  31
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  40
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  6
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  4
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has reached target3 after 3 steps.
+The episodic return is  67
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 16 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 4 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 12 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 7 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 5 steps.
+The episodic return is  32
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  39
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  32
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 5 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  6
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  58
+Selected target is  target4
+Agent has reached target3 after 8 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 12 steps.
+The episodic return is  52
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  30
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has reached target3 after 6 steps.
+The episodic return is  37
+Selected target is  target4
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 14 steps.
+The episodic return is  6
+Selected target is  target3
+Agent has reached target3 after 4 steps.
+The episodic return is  38
+Selected target is  target2
+Agent has reached target3 after 15 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target3 after 12 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 9 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 7 steps.
+The episodic return is  49
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  60
+Selected target is  target3
+Agent has reached target3 after 13 steps.
+The episodic return is  51
+Selected target is  target4
+Agent has reached target3 after 11 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 9 steps.
+The episodic return is  41
+Selected target is  target1
+Agent has reached target3 after 10 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  38
+Selected target is  target2
+Agent has reached target3 after 12 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  45
+Selected target is  target2
+Agent has reached target3 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  42

@@ -1,0 +1,1876 @@
+Executing the program with the following arguments
+ArgumentParser(prog='main.py', usage=None, description='crowd evacuation', formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+Namespace(aoi_size=100, load_pretrained=0, policy_type='PPO', time_steps=100000)
+Using GPU
+Selected target is  target4
+Using mps device
+Wrapping the env in a VecTransposeImage.
+Selected target is  target3
+Logging to Training/Logs/PPO_15
+Agent has collided with fire after 138 steps.
+The episodic return is  -974
+Selected target is  target2
+Agent has collided with fire after 84 steps.
+The episodic return is  -986
+Selected target is  target2
+Agent has reached target2 after 77 steps.
+The episodic return is  71
+Selected target is  target2
+Agent has collided with fire after 175 steps.
+The episodic return is  -995
+Selected target is  target3
+Agent has collided with fire after 21 steps.
+The episodic return is  -990
+Selected target is  target4
+Agent has collided with fire after 28 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 204 steps.
+The episodic return is  -992
+Selected target is  target1
+Agent has collided with fire after 92 steps.
+The episodic return is  -983
+Selected target is  target4
+Agent has collided with fire after 131 steps.
+The episodic return is  -982
+Selected target is  target1
+Agent has collided with fire after 47 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 101 steps.
+The episodic return is  -997
+Selected target is  target3
+Agent has collided with fire after 31 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has collided with fire after 18 steps.
+The episodic return is  -993
+Selected target is  target1
+Agent has collided with fire after 21 steps.
+The episodic return is  -989
+Selected target is  target3
+Agent has collided with fire after 246 steps.
+The episodic return is  -980
+Selected target is  target1
+Agent has reached target1 after 26 steps.
+The episodic return is  52
+Selected target is  target1
+Agent has reached target1 after 42 steps.
+The episodic return is  56
+Selected target is  target2
+Agent has collided with fire after 209 steps.
+The episodic return is  -996
+Selected target is  target2
+Agent has reached target2 after 22 steps.
+The episodic return is  52
+Selected target is  target2
+Agent has reached target2 after 95 steps.
+The episodic return is  56
+Selected target is  target1
+Agent has reached target1 after 26 steps.
+The episodic return is  70
+Selected target is  target3
+-----------------------------
+| time/              |      |
+|    fps             | 92   |
+|    iterations      | 1    |
+|    time_elapsed    | 22   |
+|    total_timesteps | 2048 |
+-----------------------------
+Agent has collided with fire after 234 steps.
+The episodic return is  -986
+Selected target is  target4
+Agent has collided with fire after 93 steps.
+The episodic return is  -975
+Selected target is  target3
+Agent has reached target3 after 32 steps.
+The episodic return is  50
+Selected target is  target2
+Agent has collided with fire after 29 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 27 steps.
+The episodic return is  -977
+Selected target is  target2
+Agent has collided with fire after 52 steps.
+The episodic return is  -986
+Selected target is  target4
+Agent has collided with fire after 346 steps.
+The episodic return is  -950
+Selected target is  target1
+Agent has collided with fire after 36 steps.
+The episodic return is  -991
+Selected target is  target3
+Agent has reached target3 after 19 steps.
+The episodic return is  41
+Selected target is  target1
+Agent has collided with fire after 160 steps.
+The episodic return is  -992
+Selected target is  target2
+Agent has collided with fire after 131 steps.
+The episodic return is  -981
+Selected target is  target2
+Agent has collided with fire after 82 steps.
+The episodic return is  -995
+Selected target is  target4
+Agent has reached target4 after 35 steps.
+The episodic return is  47
+Selected target is  target2
+Agent has collided with fire after 79 steps.
+The episodic return is  -985
+Selected target is  target2
+Agent has collided with fire after 83 steps.
+The episodic return is  -963
+Selected target is  target1
+Agent has collided with fire after 115 steps.
+The episodic return is  -987
+Selected target is  target1
+Agent has collided with fire after 38 steps.
+The episodic return is  -987
+Selected target is  target3
+Agent has collided with fire after 89 steps.
+The episodic return is  -971
+Selected target is  target3
+Agent has collided with fire after 91 steps.
+The episodic return is  -984
+Selected target is  target4
+Agent has reached target4 after 46 steps.
+The episodic return is  39
+Selected target is  target1
+Agent has collided with fire after 270 steps.
+The episodic return is  -965
+Selected target is  target1
+----------------------------------------
+| time/                   |            |
+|    fps                  | 70         |
+|    iterations           | 2          |
+|    time_elapsed         | 58         |
+|    total_timesteps      | 4096       |
+| train/                  |            |
+|    approx_kl            | 0.01686877 |
+|    clip_fraction        | 0.0771     |
+|    clip_range           | 0.2        |
+|    entropy_loss         | -2.07      |
+|    explained_variance   | 5.96e-08   |
+|    learning_rate        | 0.0003     |
+|    loss                 | 2.81e+04   |
+|    n_updates            | 10         |
+|    policy_gradient_loss | -0.00683   |
+|    value_loss           | 6.02e+04   |
+----------------------------------------
+Agent has collided with fire after 367 steps.
+The episodic return is  -977
+Selected target is  target4
+Agent has reached target4 after 36 steps.
+The episodic return is  45
+Selected target is  target1
+Agent has collided with fire after 126 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 192 steps.
+The episodic return is  -997
+Selected target is  target2
+Agent has collided with fire after 73 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target3 after 86 steps.
+The episodic return is  86
+Selected target is  target1
+Agent has collided with fire after 632 steps.
+The episodic return is  -994
+Selected target is  target4
+Agent has reached target4 after 65 steps.
+The episodic return is  47
+Selected target is  target3
+Agent has reached target3 after 293 steps.
+The episodic return is  55
+Selected target is  target3
+Agent has reached target3 after 36 steps.
+The episodic return is  50
+Selected target is  target1
+Agent has collided with fire after 17 steps.
+The episodic return is  -993
+Selected target is  target2
+Agent has collided with fire after 26 steps.
+The episodic return is  -994
+Selected target is  target1
+Agent has collided with fire after 143 steps.
+The episodic return is  -966
+Selected target is  target4
+----------------------------------------
+| time/                   |            |
+|    fps                  | 63         |
+|    iterations           | 3          |
+|    time_elapsed         | 96         |
+|    total_timesteps      | 6144       |
+| train/                  |            |
+|    approx_kl            | 0.01455469 |
+|    clip_fraction        | 0.0873     |
+|    clip_range           | 0.2        |
+|    entropy_loss         | -2.05      |
+|    explained_variance   | 0          |
+|    learning_rate        | 0.0003     |
+|    loss                 | 2.1e+04    |
+|    n_updates            | 20         |
+|    policy_gradient_loss | -0.00786   |
+|    value_loss           | 6.81e+04   |
+----------------------------------------
+Agent has reached target4 after 216 steps.
+The episodic return is  53
+Selected target is  target4
+Agent has reached target4 after 33 steps.
+The episodic return is  53
+Selected target is  target2
+Agent has collided with fire after 11 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 199 steps.
+The episodic return is  -995
+Selected target is  target2
+Agent has collided with fire after 47 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 95 steps.
+The episodic return is  -995
+Selected target is  target1
+Agent has collided with fire after 414 steps.
+The episodic return is  -985
+Selected target is  target1
+Agent has collided with fire after 92 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has collided with fire after 74 steps.
+The episodic return is  -975
+Selected target is  target4
+Agent has reached target4 after 301 steps.
+The episodic return is  60
+Selected target is  target4
+Agent has reached target4 after 47 steps.
+The episodic return is  55
+Selected target is  target4
+Agent has reached target4 after 194 steps.
+The episodic return is  69
+Selected target is  target1
+Agent has collided with fire after 129 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target3 after 17 steps.
+The episodic return is  50
+Selected target is  target4
+Agent has reached target4 after 208 steps.
+The episodic return is  74
+Selected target is  target2
+-----------------------------------------
+| time/                   |             |
+|    fps                  | 61          |
+|    iterations           | 4           |
+|    time_elapsed         | 134         |
+|    total_timesteps      | 8192        |
+| train/                  |             |
+|    approx_kl            | 0.012299344 |
+|    clip_fraction        | 0.114       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -2.02       |
+|    explained_variance   | -1.19e-07   |
+|    learning_rate        | 0.0003      |
+|    loss                 | 1.63e+04    |
+|    n_updates            | 30          |
+|    policy_gradient_loss | -0.0075     |
+|    value_loss           | 3.13e+04    |
+-----------------------------------------
+Agent has collided with fire after 245 steps.
+The episodic return is  -996
+Selected target is  target2
+Agent has collided with fire after 321 steps.
+The episodic return is  -994
+Selected target is  target4
+Agent has reached target4 after 23 steps.
+The episodic return is  51
+Selected target is  target4
+Agent has reached target4 after 61 steps.
+The episodic return is  57
+Selected target is  target1
+Agent has collided with fire after 99 steps.
+The episodic return is  -996
+Selected target is  target1
+Agent has collided with fire after 28 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 187 steps.
+The episodic return is  -996
+Selected target is  target3
+Agent has reached target3 after 268 steps.
+The episodic return is  54
+Selected target is  target4
+Agent has reached target4 after 35 steps.
+The episodic return is  63
+Selected target is  target3
+Agent has reached target3 after 13 steps.
+The episodic return is  56
+Selected target is  target2
+Agent has collided with fire after 397 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 18 steps.
+The episodic return is  -992
+Selected target is  target3
+Agent has collided with fire after 404 steps.
+The episodic return is  -988
+Selected target is  target3
+----------------------------------------
+| time/                   |            |
+|    fps                  | 59         |
+|    iterations           | 5          |
+|    time_elapsed         | 172        |
+|    total_timesteps      | 10240      |
+| train/                  |            |
+|    approx_kl            | 0.01081139 |
+|    clip_fraction        | 0.0633     |
+|    clip_range           | 0.2        |
+|    entropy_loss         | -2.02      |
+|    explained_variance   | 0          |
+|    learning_rate        | 0.0003     |
+|    loss                 | 9.52e+03   |
+|    n_updates            | 40         |
+|    policy_gradient_loss | -0.00391   |
+|    value_loss           | 3.06e+04   |
+----------------------------------------
+The room is burnt after 325 steps.
+The episodic return is  -973
+Selected target is  target1
+Agent has collided with fire after 286 steps.
+The episodic return is  -994
+Selected target is  target1
+Agent has collided with fire after 64 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 107 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 352 steps.
+The episodic return is  -992
+Selected target is  target1
+Agent has collided with fire after 44 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 16 steps.
+The episodic return is  -992
+Selected target is  target3
+Agent has reached target3 after 38 steps.
+The episodic return is  73
+Selected target is  target2
+Agent has collided with fire after 248 steps.
+The episodic return is  -994
+Selected target is  target3
+Agent has reached target3 after 14 steps.
+The episodic return is  49
+Selected target is  target3
+Agent has collided with fire after 225 steps.
+The episodic return is  -984
+Selected target is  target4
+Agent has collided with fire after 144 steps.
+The episodic return is  -975
+Selected target is  target4
+Agent has reached target4 after 89 steps.
+The episodic return is  62
+Selected target is  target4
+Agent has reached target4 after 43 steps.
+The episodic return is  57
+Selected target is  target4
+Agent has reached target4 after 27 steps.
+The episodic return is  46
+Selected target is  target4
+Agent has collided with fire after 12 steps.
+The episodic return is  -997
+Selected target is  target3
+Agent has collided with fire after 26 steps.
+The episodic return is  -986
+Selected target is  target3
+------------------------------------------
+| time/                   |              |
+|    fps                  | 58           |
+|    iterations           | 6            |
+|    time_elapsed         | 211          |
+|    total_timesteps      | 12288        |
+| train/                  |              |
+|    approx_kl            | 0.0069579105 |
+|    clip_fraction        | 0.0496       |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.02        |
+|    explained_variance   | -1.19e-07    |
+|    learning_rate        | 0.0003       |
+|    loss                 | 9.45e+03     |
+|    n_updates            | 50           |
+|    policy_gradient_loss | -0.00127     |
+|    value_loss           | 3.06e+04     |
+------------------------------------------
+Agent has collided with fire after 501 steps.
+The episodic return is  -984
+Selected target is  target1
+Agent has collided with fire after 343 steps.
+The episodic return is  -994
+Selected target is  target1
+Agent has collided with fire after 36 steps.
+The episodic return is  -993
+Selected target is  target4
+Agent has reached target4 after 17 steps.
+The episodic return is  42
+Selected target is  target3
+Agent has collided with fire after 165 steps.
+The episodic return is  -992
+Selected target is  target3
+Agent has reached target3 after 35 steps.
+The episodic return is  66
+Selected target is  target1
+Agent has collided with fire after 172 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 24 steps.
+The episodic return is  -992
+Selected target is  target1
+Agent has collided with fire after 49 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has collided with fire after 76 steps.
+The episodic return is  -974
+Selected target is  target4
+Agent has reached target4 after 105 steps.
+The episodic return is  50
+Selected target is  target1
+Agent has collided with fire after 16 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has reached target4 after 98 steps.
+The episodic return is  52
+Selected target is  target4
+Agent has reached target4 after 235 steps.
+The episodic return is  47
+Selected target is  target2
+Agent has collided with fire after 145 steps.
+The episodic return is  -990
+Selected target is  target2
+---------------------------------------
+| time/                   |           |
+|    fps                  | 57        |
+|    iterations           | 7         |
+|    time_elapsed         | 248       |
+|    total_timesteps      | 14336     |
+| train/                  |           |
+|    approx_kl            | 0.0154234 |
+|    clip_fraction        | 0.0741    |
+|    clip_range           | 0.2       |
+|    entropy_loss         | -2        |
+|    explained_variance   | -1.19e-07 |
+|    learning_rate        | 0.0003    |
+|    loss                 | 1.2e+04   |
+|    n_updates            | 60        |
+|    policy_gradient_loss | -0.00732  |
+|    value_loss           | 4.44e+04  |
+---------------------------------------
+The room is burnt after 570 steps.
+The episodic return is  -995
+Selected target is  target1
+Agent has collided with fire after 32 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 19 steps.
+The episodic return is  44
+Selected target is  target1
+The room is burnt after 245 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 248 steps.
+The episodic return is  -994
+Selected target is  target4
+Agent has reached target4 after 20 steps.
+The episodic return is  51
+Selected target is  target4
+Agent has reached target4 after 47 steps.
+The episodic return is  53
+Selected target is  target1
+Agent has collided with fire after 42 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 76 steps.
+The episodic return is  -986
+Selected target is  target3
+Agent has collided with fire after 497 steps.
+The episodic return is  -992
+Selected target is  target1
+Agent has collided with fire after 284 steps.
+The episodic return is  -999
+Selected target is  target1
+-----------------------------------------
+| time/                   |             |
+|    fps                  | 56          |
+|    iterations           | 8           |
+|    time_elapsed         | 290         |
+|    total_timesteps      | 16384       |
+| train/                  |             |
+|    approx_kl            | 0.015119333 |
+|    clip_fraction        | 0.0865      |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.94       |
+|    explained_variance   | 0           |
+|    learning_rate        | 0.0003      |
+|    loss                 | 1.09e+04    |
+|    n_updates            | 70          |
+|    policy_gradient_loss | -0.00859    |
+|    value_loss           | 3.71e+04    |
+-----------------------------------------
+The room is burnt after 250 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 427 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has reached target4 after 9 steps.
+The episodic return is  27
+Selected target is  target4
+Agent has reached target4 after 15 steps.
+The episodic return is  58
+Selected target is  target2
+Agent has collided with fire after 53 steps.
+The episodic return is  -986
+Selected target is  target4
+Agent has reached target4 after 33 steps.
+The episodic return is  48
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  55
+Selected target is  target1
+Agent has collided with fire after 190 steps.
+The episodic return is  -996
+Selected target is  target1
+Agent has collided with fire after 25 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 71 steps.
+The episodic return is  -994
+Selected target is  target4
+Agent has reached target4 after 34 steps.
+The episodic return is  48
+Selected target is  target4
+Agent has reached target4 after 25 steps.
+The episodic return is  55
+Selected target is  target3
+Agent has collided with fire after 100 steps.
+The episodic return is  -996
+Selected target is  target2
+Agent has collided with fire after 516 steps.
+The episodic return is  -997
+Selected target is  target1
+The room is burnt after 265 steps.
+The episodic return is  -999
+Selected target is  target2
+----------------------------------------
+| time/                   |            |
+|    fps                  | 55         |
+|    iterations           | 9          |
+|    time_elapsed         | 330        |
+|    total_timesteps      | 18432      |
+| train/                  |            |
+|    approx_kl            | 0.01265148 |
+|    clip_fraction        | 0.0875     |
+|    clip_range           | 0.2        |
+|    entropy_loss         | -1.89      |
+|    explained_variance   | 0          |
+|    learning_rate        | 0.0003     |
+|    loss                 | 1.25e+04   |
+|    n_updates            | 80         |
+|    policy_gradient_loss | -0.00209   |
+|    value_loss           | 2.97e+04   |
+----------------------------------------
+The room is burnt after 440 steps.
+The episodic return is  -994
+Selected target is  target3
+The room is burnt after 690 steps.
+The episodic return is  -977
+Selected target is  target2
+Agent has collided with fire after 367 steps.
+The episodic return is  -991
+Selected target is  target4
+Agent has reached target4 after 20 steps.
+The episodic return is  43
+Selected target is  target1
+Agent has collided with fire after 159 steps.
+The episodic return is  -998
+Selected target is  target2
+-----------------------------------------
+| time/                   |             |
+|    fps                  | 55          |
+|    iterations           | 10          |
+|    time_elapsed         | 372         |
+|    total_timesteps      | 20480       |
+| train/                  |             |
+|    approx_kl            | 0.011151629 |
+|    clip_fraction        | 0.0513      |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.82       |
+|    explained_variance   | 0           |
+|    learning_rate        | 0.0003      |
+|    loss                 | 2.67e+04    |
+|    n_updates            | 90          |
+|    policy_gradient_loss | -0.00356    |
+|    value_loss           | 3.3e+04     |
+-----------------------------------------
+Agent has collided with fire after 504 steps.
+The episodic return is  -995
+Selected target is  target4
+Agent has reached target4 after 11 steps.
+The episodic return is  49
+Selected target is  target3
+The room is burnt after 225 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has reached target4 after 32 steps.
+The episodic return is  60
+Selected target is  target3
+The room is burnt after 430 steps.
+The episodic return is  -994
+Selected target is  target3
+Agent has collided with fire after 203 steps.
+The episodic return is  -967
+Selected target is  target3
+Agent has collided with fire after 79 steps.
+The episodic return is  -987
+Selected target is  target3
+Agent has collided with fire after 309 steps.
+The episodic return is  -985
+Selected target is  target2
+Agent has collided with fire after 67 steps.
+The episodic return is  -997
+Selected target is  target3
+The room is burnt after 250 steps.
+The episodic return is  -985
+Selected target is  target2
+Agent has collided with fire after 103 steps.
+The episodic return is  -999
+Selected target is  target3
+-----------------------------------------
+| time/                   |             |
+|    fps                  | 54          |
+|    iterations           | 11          |
+|    time_elapsed         | 412         |
+|    total_timesteps      | 22528       |
+| train/                  |             |
+|    approx_kl            | 0.016309638 |
+|    clip_fraction        | 0.17        |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.84       |
+|    explained_variance   | 0           |
+|    learning_rate        | 0.0003      |
+|    loss                 | 6.54e+03    |
+|    n_updates            | 100         |
+|    policy_gradient_loss | 0.00197     |
+|    value_loss           | 1.46e+04    |
+-----------------------------------------
+The room is burnt after 530 steps.
+The episodic return is  -990
+Selected target is  target2
+The room is burnt after 550 steps.
+The episodic return is  -997
+Selected target is  target2
+Agent has collided with fire after 11 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 218 steps.
+The episodic return is  -994
+Selected target is  target2
+The room is burnt after 290 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has reached target4 after 15 steps.
+The episodic return is  33
+Selected target is  target3
+Agent has collided with fire after 238 steps.
+The episodic return is  -993
+Selected target is  target4
+Agent has reached target4 after 35 steps.
+The episodic return is  57
+Selected target is  target3
+The room is burnt after 390 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 18 steps.
+The episodic return is  48
+Selected target is  target3
+------------------------------------------
+| time/                   |              |
+|    fps                  | 54           |
+|    iterations           | 12           |
+|    time_elapsed         | 454          |
+|    total_timesteps      | 24576        |
+| train/                  |              |
+|    approx_kl            | 0.0025406827 |
+|    clip_fraction        | 0            |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -1.92        |
+|    explained_variance   | 5.96e-08     |
+|    learning_rate        | 0.0003       |
+|    loss                 | 1.71e+04     |
+|    n_updates            | 110          |
+|    policy_gradient_loss | -0.00122     |
+|    value_loss           | 3.21e+04     |
+------------------------------------------
+Agent has reached target3 after 208 steps.
+The episodic return is  47
+Selected target is  target1
+Agent has collided with fire after 28 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 86 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 86 steps.
+The episodic return is  60
+Selected target is  target2
+Agent has collided with fire after 290 steps.
+The episodic return is  -994
+Selected target is  target2
+Agent has collided with fire after 39 steps.
+The episodic return is  -997
+Selected target is  target1
+Agent has collided with fire after 122 steps.
+The episodic return is  -996
+Selected target is  target1
+Agent has collided with fire after 16 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 254 steps.
+The episodic return is  -996
+Selected target is  target3
+Agent has collided with fire after 177 steps.
+The episodic return is  -990
+Selected target is  target1
+Agent has collided with fire after 27 steps.
+The episodic return is  -994
+Selected target is  target2
+Agent has collided with fire after 161 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 42 steps.
+The episodic return is  62
+Selected target is  target2
+----------------------------------------
+| time/                   |            |
+|    fps                  | 54         |
+|    iterations           | 13         |
+|    time_elapsed         | 491        |
+|    total_timesteps      | 26624      |
+| train/                  |            |
+|    approx_kl            | 0.03182635 |
+|    clip_fraction        | 0.153      |
+|    clip_range           | 0.2        |
+|    entropy_loss         | -1.92      |
+|    explained_variance   | 0          |
+|    learning_rate        | 0.0003     |
+|    loss                 | 1.73e+04   |
+|    n_updates            | 120        |
+|    policy_gradient_loss | -0.000202  |
+|    value_loss           | 2.39e+04   |
+----------------------------------------
+The room is burnt after 700 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 220 steps.
+The episodic return is  -991
+Selected target is  target1
+Agent has collided with fire after 152 steps.
+The episodic return is  -999
+Selected target is  target3
+The room is burnt after 500 steps.
+The episodic return is  -982
+Selected target is  target4
+Agent has reached target4 after 19 steps.
+The episodic return is  52
+Selected target is  target4
+Agent has reached target4 after 22 steps.
+The episodic return is  57
+Selected target is  target4
+Agent has reached target4 after 44 steps.
+The episodic return is  54
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  34
+Selected target is  target3
+The room is burnt after 410 steps.
+The episodic return is  -976
+Selected target is  target4
+Agent has reached target4 after 33 steps.
+The episodic return is  64
+Selected target is  target1
+Agent has collided with fire after 46 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 55 steps.
+The episodic return is  -996
+Selected target is  target3
+Agent has collided with fire after 167 steps.
+The episodic return is  -991
+Selected target is  target4
+Agent has reached target4 after 27 steps.
+The episodic return is  71
+Selected target is  target3
+-----------------------------------------
+| time/                   |             |
+|    fps                  | 53          |
+|    iterations           | 14          |
+|    time_elapsed         | 531         |
+|    total_timesteps      | 28672       |
+| train/                  |             |
+|    approx_kl            | 0.009704703 |
+|    clip_fraction        | 0.0419      |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.92       |
+|    explained_variance   | 0           |
+|    learning_rate        | 0.0003      |
+|    loss                 | 9.03e+03    |
+|    n_updates            | 130         |
+|    policy_gradient_loss | -0.0056     |
+|    value_loss           | 3.42e+04    |
+-----------------------------------------
+Agent has collided with fire after 443 steps.
+The episodic return is  -988
+Selected target is  target4
+Agent has reached target4 after 56 steps.
+The episodic return is  78
+Selected target is  target4
+Agent has reached target4 after 35 steps.
+The episodic return is  41
+Selected target is  target1
+Agent has collided with fire after 19 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 422 steps.
+The episodic return is  -998
+Selected target is  target2
+The room is burnt after 325 steps.
+The episodic return is  -987
+Selected target is  target3
+Agent has collided with fire after 290 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 104 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 364 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 13 steps.
+The episodic return is  51
+Selected target is  target3
+Agent has collided with fire after 29 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 96 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target4 after 19 steps.
+The episodic return is  62
+Selected target is  target2
+------------------------------------------
+| time/                   |              |
+|    fps                  | 53           |
+|    iterations           | 15           |
+|    time_elapsed         | 571          |
+|    total_timesteps      | 30720        |
+| train/                  |              |
+|    approx_kl            | 0.0073998105 |
+|    clip_fraction        | 0.00723      |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -1.9         |
+|    explained_variance   | 5.96e-08     |
+|    learning_rate        | 0.0003       |
+|    loss                 | 1.28e+04     |
+|    n_updates            | 140          |
+|    policy_gradient_loss | -0.00383     |
+|    value_loss           | 2.77e+04     |
+------------------------------------------
+The room is burnt after 370 steps.
+The episodic return is  -997
+Selected target is  target2
+Agent has collided with fire after 193 steps.
+The episodic return is  -996
+Selected target is  target3
+The room is burnt after 420 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 309 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target4 after 33 steps.
+The episodic return is  40
+Selected target is  target3
+Agent has collided with fire after 392 steps.
+The episodic return is  -990
+Selected target is  target2
+------------------------------------------
+| time/                   |              |
+|    fps                  | 53           |
+|    iterations           | 16           |
+|    time_elapsed         | 612          |
+|    total_timesteps      | 32768        |
+| train/                  |              |
+|    approx_kl            | 0.0072939745 |
+|    clip_fraction        | 0.0257       |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -1.89        |
+|    explained_variance   | -1.19e-07    |
+|    learning_rate        | 0.0003       |
+|    loss                 | 1.37e+04     |
+|    n_updates            | 150          |
+|    policy_gradient_loss | -0.00395     |
+|    value_loss           | 3.02e+04     |
+------------------------------------------
+The room is burnt after 505 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 123 steps.
+The episodic return is  -996
+Selected target is  target3
+The room is burnt after 225 steps.
+The episodic return is  -994
+Selected target is  target4
+Agent has reached target4 after 8 steps.
+The episodic return is  54
+Selected target is  target4
+Agent has reached target4 after 40 steps.
+The episodic return is  47
+Selected target is  target3
+Agent has collided with fire after 398 steps.
+The episodic return is  -965
+Selected target is  target2
+The room is burnt after 555 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 20 steps.
+The episodic return is  79
+Selected target is  target4
+Agent has reached target4 after 13 steps.
+The episodic return is  39
+Selected target is  target4
+Agent has reached target4 after 236 steps.
+The episodic return is  59
+Selected target is  target3
+Agent has collided with fire after 157 steps.
+The episodic return is  -994
+Selected target is  target2
+-----------------------------------------
+| time/                   |             |
+|    fps                  | 53          |
+|    iterations           | 17          |
+|    time_elapsed         | 654         |
+|    total_timesteps      | 34816       |
+| train/                  |             |
+|    approx_kl            | 0.009344172 |
+|    clip_fraction        | 0.158       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.83       |
+|    explained_variance   | 0           |
+|    learning_rate        | 0.0003      |
+|    loss                 | 7e+03       |
+|    n_updates            | 160         |
+|    policy_gradient_loss | -0.00141    |
+|    value_loss           | 1.68e+04    |
+-----------------------------------------
+Agent has collided with fire after 426 steps.
+The episodic return is  -994
+Selected target is  target2
+Agent has collided with fire after 26 steps.
+The episodic return is  -997
+Selected target is  target1
+Agent has collided with fire after 33 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target4 after 39 steps.
+The episodic return is  75
+Selected target is  target1
+Agent has collided with fire after 71 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 122 steps.
+The episodic return is  55
+Selected target is  target4
+Agent has reached target4 after 41 steps.
+The episodic return is  49
+Selected target is  target3
+Agent has collided with fire after 369 steps.
+The episodic return is  -973
+Selected target is  target2
+Agent has collided with fire after 215 steps.
+The episodic return is  -999
+Selected target is  target3
+The room is burnt after 570 steps.
+The episodic return is  -990
+Selected target is  target3
+Agent has collided with fire after 31 steps.
+The episodic return is  -993
+Selected target is  target1
+Agent has collided with fire after 87 steps.
+The episodic return is  -995
+Selected target is  target2
+----------------------------------------
+| time/                   |            |
+|    fps                  | 53         |
+|    iterations           | 18         |
+|    time_elapsed         | 692        |
+|    total_timesteps      | 36864      |
+| train/                  |            |
+|    approx_kl            | 0.01621045 |
+|    clip_fraction        | 0.208      |
+|    clip_range           | 0.2        |
+|    entropy_loss         | -1.89      |
+|    explained_variance   | 0          |
+|    learning_rate        | 0.0003     |
+|    loss                 | 1.09e+04   |
+|    n_updates            | 170        |
+|    policy_gradient_loss | 0.00215    |
+|    value_loss           | 2.02e+04   |
+----------------------------------------
+The room is burnt after 245 steps.
+The episodic return is  -995
+Selected target is  target1
+Agent has collided with fire after 296 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 171 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 96 steps.
+The episodic return is  44
+Selected target is  target2
+Agent has collided with fire after 19 steps.
+The episodic return is  -994
+Selected target is  target1
+Agent has collided with fire after 179 steps.
+The episodic return is  -999
+Selected target is  target3
+The room is burnt after 510 steps.
+The episodic return is  -974
+Selected target is  target3
+The room is burnt after 295 steps.
+The episodic return is  -992
+Selected target is  target3
+The room is burnt after 250 steps.
+The episodic return is  -968
+Selected target is  target3
+------------------------------------------
+| time/                   |              |
+|    fps                  | 53           |
+|    iterations           | 19           |
+|    time_elapsed         | 734          |
+|    total_timesteps      | 38912        |
+| train/                  |              |
+|    approx_kl            | 0.0013459511 |
+|    clip_fraction        | 0            |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -1.94        |
+|    explained_variance   | 0            |
+|    learning_rate        | 0.0003       |
+|    loss                 | 1.78e+04     |
+|    n_updates            | 180          |
+|    policy_gradient_loss | -0.000624    |
+|    value_loss           | 2.93e+04     |
+------------------------------------------
+Agent has reached target3 after 316 steps.
+The episodic return is  42
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  55
+Selected target is  target2
+Agent has collided with fire after 14 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 27 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target4 after 148 steps.
+The episodic return is  58
+Selected target is  target1
+Agent has collided with fire after 187 steps.
+The episodic return is  -977
+Selected target is  target2
+Agent has collided with fire after 66 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 50 steps.
+The episodic return is  -994
+Selected target is  target4
+Agent has reached target4 after 22 steps.
+The episodic return is  34
+Selected target is  target1
+Agent has collided with fire after 25 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 80 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 169 steps.
+The episodic return is  -970
+Selected target is  target2
+Agent has collided with fire after 177 steps.
+The episodic return is  -996
+Selected target is  target2
+The room is burnt after 440 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 62 steps.
+The episodic return is  46
+Selected target is  target1
+Agent has collided with fire after 207 steps.
+The episodic return is  -984
+Selected target is  target4
+-----------------------------------------
+| time/                   |             |
+|    fps                  | 53          |
+|    iterations           | 20          |
+|    time_elapsed         | 772         |
+|    total_timesteps      | 40960       |
+| train/                  |             |
+|    approx_kl            | 0.041517146 |
+|    clip_fraction        | 0.246       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -2.01       |
+|    explained_variance   | -1.19e-07   |
+|    learning_rate        | 0.0003      |
+|    loss                 | 5.01e+03    |
+|    n_updates            | 190         |
+|    policy_gradient_loss | 0.00374     |
+|    value_loss           | 2.54e+04    |
+-----------------------------------------
+Agent has collided with fire after 255 steps.
+The episodic return is  -962
+Selected target is  target2
+Agent has collided with fire after 152 steps.
+The episodic return is  -996
+Selected target is  target2
+Agent has collided with fire after 187 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 105 steps.
+The episodic return is  71
+Selected target is  target1
+Agent has collided with fire after 95 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 39 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has collided with fire after 397 steps.
+The episodic return is  -960
+Selected target is  target3
+Agent has reached target3 after 110 steps.
+The episodic return is  70
+Selected target is  target2
+Agent has collided with fire after 120 steps.
+The episodic return is  -996
+Selected target is  target1
+Agent has collided with fire after 318 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 52 steps.
+The episodic return is  -991
+Selected target is  target3
+Agent has collided with fire after 208 steps.
+The episodic return is  -979
+Selected target is  target2
+Agent has collided with fire after 142 steps.
+The episodic return is  -997
+Selected target is  target3
+------------------------------------------
+| time/                   |              |
+|    fps                  | 53           |
+|    iterations           | 21           |
+|    time_elapsed         | 811          |
+|    total_timesteps      | 43008        |
+| train/                  |              |
+|    approx_kl            | 0.0040445607 |
+|    clip_fraction        | 0.00479      |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -2.05        |
+|    explained_variance   | 0            |
+|    learning_rate        | 0.0003       |
+|    loss                 | 2.08e+04     |
+|    n_updates            | 200          |
+|    policy_gradient_loss | 0.00196      |
+|    value_loss           | 3.43e+04     |
+------------------------------------------
+Agent has reached target3 after 76 steps.
+The episodic return is  59
+Selected target is  target4
+Agent has reached target4 after 74 steps.
+The episodic return is  50
+Selected target is  target3
+Agent has collided with fire after 28 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 24 steps.
+The episodic return is  51
+Selected target is  target4
+Agent has reached target4 after 63 steps.
+The episodic return is  59
+Selected target is  target1
+Agent has collided with fire after 211 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 431 steps.
+The episodic return is  -973
+Selected target is  target2
+Agent has collided with fire after 386 steps.
+The episodic return is  -991
+Selected target is  target3
+The room is burnt after 390 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 242 steps.
+The episodic return is  -977
+Selected target is  target3
+-----------------------------------------
+| time/                   |             |
+|    fps                  | 52          |
+|    iterations           | 22          |
+|    time_elapsed         | 851         |
+|    total_timesteps      | 45056       |
+| train/                  |             |
+|    approx_kl            | 0.005168137 |
+|    clip_fraction        | 0.00742     |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -2.02       |
+|    explained_variance   | 0           |
+|    learning_rate        | 0.0003      |
+|    loss                 | 1.72e+04    |
+|    n_updates            | 210         |
+|    policy_gradient_loss | -0.00292    |
+|    value_loss           | 3.42e+04    |
+-----------------------------------------
+Agent has collided with fire after 317 steps.
+The episodic return is  -971
+Selected target is  target2
+Agent has collided with fire after 86 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 35 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 498 steps.
+The episodic return is  -959
+Selected target is  target2
+Agent has collided with fire after 371 steps.
+The episodic return is  -992
+Selected target is  target1
+Agent has collided with fire after 34 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target3 after 37 steps.
+The episodic return is  42
+Selected target is  target2
+Agent has collided with fire after 101 steps.
+The episodic return is  -996
+Selected target is  target3
+Agent has collided with fire after 220 steps.
+The episodic return is  -982
+Selected target is  target3
+Agent has collided with fire after 308 steps.
+The episodic return is  -970
+Selected target is  target1
+Agent has collided with fire after 128 steps.
+The episodic return is  -999
+Selected target is  target1
+-----------------------------------------
+| time/                   |             |
+|    fps                  | 52          |
+|    iterations           | 23          |
+|    time_elapsed         | 890         |
+|    total_timesteps      | 47104       |
+| train/                  |             |
+|    approx_kl            | 0.009376958 |
+|    clip_fraction        | 0.0949      |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.99       |
+|    explained_variance   | 0           |
+|    learning_rate        | 0.0003      |
+|    loss                 | 1.08e+04    |
+|    n_updates            | 220         |
+|    policy_gradient_loss | -0.00107    |
+|    value_loss           | 1.91e+04    |
+-----------------------------------------
+Agent has collided with fire after 148 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has reached target4 after 24 steps.
+The episodic return is  48
+Selected target is  target4
+Agent has reached target4 after 59 steps.
+The episodic return is  55
+Selected target is  target3
+Agent has collided with fire after 241 steps.
+The episodic return is  -986
+Selected target is  target2
+Agent has collided with fire after 121 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has reached target4 after 40 steps.
+The episodic return is  73
+Selected target is  target4
+Agent has reached target4 after 63 steps.
+The episodic return is  59
+Selected target is  target3
+Agent has reached target3 after 49 steps.
+The episodic return is  53
+Selected target is  target4
+Agent has reached target4 after 19 steps.
+The episodic return is  49
+Selected target is  target3
+The room is burnt after 415 steps.
+The episodic return is  -994
+Selected target is  target4
+Agent has reached target4 after 49 steps.
+The episodic return is  47
+Selected target is  target3
+Agent has collided with fire after 30 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 16 steps.
+The episodic return is  -1000
+Selected target is  target1
+Agent has collided with fire after 141 steps.
+The episodic return is  -993
+Selected target is  target4
+Agent has reached target4 after 17 steps.
+The episodic return is  60
+Selected target is  target1
+Agent has collided with fire after 258 steps.
+The episodic return is  -998
+Selected target is  target3
+-----------------------------------------
+| time/                   |             |
+|    fps                  | 52          |
+|    iterations           | 24          |
+|    time_elapsed         | 929         |
+|    total_timesteps      | 49152       |
+| train/                  |             |
+|    approx_kl            | 0.005913905 |
+|    clip_fraction        | 0.0247      |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.98       |
+|    explained_variance   | -1.19e-07   |
+|    learning_rate        | 0.0003      |
+|    loss                 | 9.86e+03    |
+|    n_updates            | 230         |
+|    policy_gradient_loss | -0.00263    |
+|    value_loss           | 3.02e+04    |
+-----------------------------------------
+The room is burnt after 480 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has reached target4 after 24 steps.
+The episodic return is  48
+Selected target is  target2
+Agent has collided with fire after 13 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 372 steps.
+The episodic return is  -988
+Selected target is  target2
+Agent has collided with fire after 303 steps.
+The episodic return is  -972
+Selected target is  target1
+Agent has collided with fire after 23 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 110 steps.
+The episodic return is  -998
+Selected target is  target2
+The room is burnt after 415 steps.
+The episodic return is  -995
+Selected target is  target3
+Agent has collided with fire after 456 steps.
+The episodic return is  -996
+Selected target is  target1
+Agent has collided with fire after 24 steps.
+The episodic return is  -994
+Selected target is  target1
+Agent has collided with fire after 76 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  31
+Selected target is  target4
+Agent has reached target4 after 18 steps.
+The episodic return is  52
+Selected target is  target2
+------------------------------------------
+| time/                   |              |
+|    fps                  | 52           |
+|    iterations           | 25           |
+|    time_elapsed         | 969          |
+|    total_timesteps      | 51200        |
+| train/                  |              |
+|    approx_kl            | 0.0051388955 |
+|    clip_fraction        | 0.0634       |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -1.95        |
+|    explained_variance   | 0            |
+|    learning_rate        | 0.0003       |
+|    loss                 | 1.57e+04     |
+|    n_updates            | 240          |
+|    policy_gradient_loss | -0.00161     |
+|    value_loss           | 2.48e+04     |
+------------------------------------------
+Agent has collided with fire after 356 steps.
+The episodic return is  -997
+Selected target is  target2
+Agent has collided with fire after 207 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target4 after 22 steps.
+The episodic return is  49
+Selected target is  target1
+Agent has collided with fire after 321 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  37
+Selected target is  target2
+The room is burnt after 255 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has reached target4 after 9 steps.
+The episodic return is  42
+Selected target is  target3
+Agent has reached target3 after 19 steps.
+The episodic return is  50
+Selected target is  target4
+Agent has reached target4 after 29 steps.
+The episodic return is  56
+Selected target is  target2
+Agent has collided with fire after 101 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has reached target4 after 89 steps.
+The episodic return is  58
+Selected target is  target3
+The room is burnt after 515 steps.
+The episodic return is  -997
+Selected target is  target3
+-----------------------------------------
+| time/                   |             |
+|    fps                  | 52          |
+|    iterations           | 26          |
+|    time_elapsed         | 1011        |
+|    total_timesteps      | 53248       |
+| train/                  |             |
+|    approx_kl            | 0.009342844 |
+|    clip_fraction        | 0.0396      |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.9        |
+|    explained_variance   | -1.19e-07   |
+|    learning_rate        | 0.0003      |
+|    loss                 | 1.3e+04     |
+|    n_updates            | 250         |
+|    policy_gradient_loss | -0.00755    |
+|    value_loss           | 2.9e+04     |
+-----------------------------------------
+Agent has collided with fire after 412 steps.
+The episodic return is  -992
+Selected target is  target3
+The room is burnt after 555 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 546 steps.
+The episodic return is  -994
+Selected target is  target1
+Agent has collided with fire after 160 steps.
+The episodic return is  -999
+Selected target is  target2
+The room is burnt after 315 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has reached target4 after 18 steps.
+The episodic return is  50
+Selected target is  target2
+-----------------------------------------
+| time/                   |             |
+|    fps                  | 52          |
+|    iterations           | 27          |
+|    time_elapsed         | 1053        |
+|    total_timesteps      | 55296       |
+| train/                  |             |
+|    approx_kl            | 0.008573538 |
+|    clip_fraction        | 0.159       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.86       |
+|    explained_variance   | 0           |
+|    learning_rate        | 0.0003      |
+|    loss                 | 1.8e+04     |
+|    n_updates            | 260         |
+|    policy_gradient_loss | -0.000399   |
+|    value_loss           | 1.86e+04    |
+-----------------------------------------
+Agent has collided with fire after 579 steps.
+The episodic return is  -996
+Selected target is  target3
+Agent has collided with fire after 27 steps.
+The episodic return is  -993
+Selected target is  target1
+Agent has collided with fire after 22 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 381 steps.
+The episodic return is  -994
+Selected target is  target3
+Agent has collided with fire after 44 steps.
+The episodic return is  -993
+Selected target is  target4
+Agent has reached target4 after 13 steps.
+The episodic return is  45
+Selected target is  target4
+Agent has reached target4 after 15 steps.
+The episodic return is  37
+Selected target is  target1
+Agent has collided with fire after 397 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 26 steps.
+The episodic return is  47
+Selected target is  target3
+The room is burnt after 570 steps.
+The episodic return is  -997
+Selected target is  target2
+Agent has collided with fire after 31 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 163 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  26
+Selected target is  target2
+-----------------------------------------
+| time/                   |             |
+|    fps                  | 52          |
+|    iterations           | 28          |
+|    time_elapsed         | 1094        |
+|    total_timesteps      | 57344       |
+| train/                  |             |
+|    approx_kl            | 0.014536824 |
+|    clip_fraction        | 0.135       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.81       |
+|    explained_variance   | 0           |
+|    learning_rate        | 0.0003      |
+|    loss                 | 6.87e+03    |
+|    n_updates            | 270         |
+|    policy_gradient_loss | 0.0014      |
+|    value_loss           | 1.5e+04     |
+-----------------------------------------
+The room is burnt after 245 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 328 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 11 steps.
+The episodic return is  -998
+Selected target is  target3
+The room is burnt after 295 steps.
+The episodic return is  -977
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  45
+Selected target is  target2
+Agent has collided with fire after 60 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 165 steps.
+The episodic return is  -996
+Selected target is  target3
+The room is burnt after 510 steps.
+The episodic return is  -995
+Selected target is  target4
+Agent has reached target4 after 11 steps.
+The episodic return is  43
+Selected target is  target2
+The room is burnt after 250 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  32
+Selected target is  target3
+------------------------------------------
+| time/                   |              |
+|    fps                  | 52           |
+|    iterations           | 29           |
+|    time_elapsed         | 1135         |
+|    total_timesteps      | 59392        |
+| train/                  |              |
+|    approx_kl            | 0.0128821395 |
+|    clip_fraction        | 0.0289       |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -1.79        |
+|    explained_variance   | -1.19e-07    |
+|    learning_rate        | 0.0003       |
+|    loss                 | 1.78e+04     |
+|    n_updates            | 280          |
+|    policy_gradient_loss | 0.000597     |
+|    value_loss           | 2.62e+04     |
+------------------------------------------
+Agent has collided with fire after 379 steps.
+The episodic return is  -991
+Selected target is  target4
+Agent has reached target4 after 14 steps.
+The episodic return is  53
+Selected target is  target1
+Agent has collided with fire after 21 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 68 steps.
+The episodic return is  44
+Selected target is  target4
+Agent has reached target4 after 32 steps.
+The episodic return is  68
+Selected target is  target2
+Agent has collided with fire after 86 steps.
+The episodic return is  -992
+Selected target is  target1
+Agent has collided with fire after 125 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target4 after 109 steps.
+The episodic return is  62
+Selected target is  target3
+Agent has collided with fire after 426 steps.
+The episodic return is  -994
+Selected target is  target3
+Agent has collided with fire after 110 steps.
+The episodic return is  -990
+Selected target is  target4
+Agent has reached target4 after 22 steps.
+The episodic return is  43
+Selected target is  target4
+Agent has reached target4 after 14 steps.
+The episodic return is  64
+Selected target is  target3
+The room is burnt after 440 steps.
+The episodic return is  -989
+Selected target is  target4
+Agent has reached target4 after 38 steps.
+The episodic return is  68
+Selected target is  target3
+Agent has collided with fire after 402 steps.
+The episodic return is  -989
+Selected target is  target4
+----------------------------------------
+| time/                   |            |
+|    fps                  | 52         |
+|    iterations           | 30         |
+|    time_elapsed         | 1175       |
+|    total_timesteps      | 61440      |
+| train/                  |            |
+|    approx_kl            | 0.00768645 |
+|    clip_fraction        | 0.0199     |
+|    clip_range           | 0.2        |
+|    entropy_loss         | -1.79      |
+|    explained_variance   | 0          |
+|    learning_rate        | 0.0003     |
+|    loss                 | 7.61e+03   |
+|    n_updates            | 290        |
+|    policy_gradient_loss | -0.00324   |
+|    value_loss           | 2.25e+04   |
+----------------------------------------
+Agent has reached target4 after 41 steps.
+The episodic return is  58
+Selected target is  target2
+Agent has collided with fire after 101 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 33 steps.
+The episodic return is  47
+Selected target is  target1
+Agent has collided with fire after 425 steps.
+The episodic return is  -996
+Selected target is  target1
+Agent has collided with fire after 172 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 224 steps.
+The episodic return is  -986
+Selected target is  target3
+Agent has reached target3 after 49 steps.
+The episodic return is  51
+Selected target is  target1
+Agent has collided with fire after 191 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  42
+Selected target is  target3
+Agent has reached target3 after 12 steps.
+The episodic return is  41
+Selected target is  target3
+The room is burnt after 370 steps.
+The episodic return is  -996
+Selected target is  target1
+Agent has collided with fire after 111 steps.
+The episodic return is  -998
+Selected target is  target2
+The room is burnt after 250 steps.
+The episodic return is  -996
+Selected target is  target3
+-----------------------------------------
+| time/                   |             |
+|    fps                  | 34          |
+|    iterations           | 31          |
+|    time_elapsed         | 1846        |
+|    total_timesteps      | 63488       |
+| train/                  |             |
+|    approx_kl            | 0.007989371 |
+|    clip_fraction        | 0.0575      |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.78       |
+|    explained_variance   | -1.19e-07   |
+|    learning_rate        | 0.0003      |
+|    loss                 | 1.04e+04    |
+|    n_updates            | 300         |
+|    policy_gradient_loss | -0.00231    |
+|    value_loss           | 2.38e+04    |
+-----------------------------------------
+Agent has collided with fire after 96 steps.
+The episodic return is  -984
+Selected target is  target3
+The room is burnt after 530 steps.
+The episodic return is  -992
+Selected target is  target3
+The room is burnt after 550 steps.
+The episodic return is  -979
+Selected target is  target3
+Agent has collided with fire after 51 steps.
+The episodic return is  -991
+Selected target is  target2
+Agent has collided with fire after 244 steps.
+The episodic return is  -985
+Selected target is  target2
+The room is burnt after 290 steps.
+The episodic return is  -996
+Selected target is  target1
+Agent has collided with fire after 173 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 18 steps.
+The episodic return is  41
+Selected target is  target3
+Agent has reached target3 after 12 steps.
+The episodic return is  52
+Selected target is  target3
+------------------------------------------
+| time/                   |              |
+|    fps                  | 34           |
+|    iterations           | 32           |
+|    time_elapsed         | 1888         |
+|    total_timesteps      | 65536        |
+| train/                  |              |
+|    approx_kl            | 0.0049960706 |
+|    clip_fraction        | 0.0429       |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -1.8         |
+|    explained_variance   | 0            |
+|    learning_rate        | 0.0003       |
+|    loss                 | 2.55e+03     |
+|    n_updates            | 310          |
+|    policy_gradient_loss | -0.00156     |
+|    value_loss           | 2.32e+04     |
+------------------------------------------
+The room is burnt after 390 steps.
+The episodic return is  -996
+Selected target is  target3
+Agent has reached target3 after 42 steps.
+The episodic return is  62
+Selected target is  target4
+Agent has reached target4 after 151 steps.
+The episodic return is  53
+Selected target is  target2
+Agent has collided with fire after 36 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 109 steps.
+The episodic return is  -999
+Selected target is  target3
+The room is burnt after 535 steps.
+The episodic return is  -962
+Selected target is  target2
+Agent has collided with fire after 367 steps.
+The episodic return is  -997
+Selected target is  target3
+Agent has reached target3 after 10 steps.
+The episodic return is  56
+Selected target is  target2
+Agent has collided with fire after 76 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 12 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 139 steps.
+The episodic return is  -993
+Selected target is  target2
+Agent has collided with fire after 273 steps.
+The episodic return is  -996
+Selected target is  target1
+-----------------------------------------
+| time/                   |             |
+|    fps                  | 35          |
+|    iterations           | 33          |
+|    time_elapsed         | 1929        |
+|    total_timesteps      | 67584       |
+| train/                  |             |
+|    approx_kl            | 0.007917958 |
+|    clip_fraction        | 0.148       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.86       |
+|    explained_variance   | -1.19e-07   |
+|    learning_rate        | 0.0003      |
+|    loss                 | 1.98e+04    |
+|    n_updates            | 320         |
+|    policy_gradient_loss | -0.00307    |
+|    value_loss           | 1.98e+04    |
+-----------------------------------------
+Agent has collided with fire after 248 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 115 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 129 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 15 steps.
+The episodic return is  52
+Selected target is  target2
+The room is burnt after 700 steps.
+The episodic return is  -994
+Selected target is  target1
+Agent has collided with fire after 293 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 184 steps.
+The episodic return is  -986
+Selected target is  target3
+-----------------------------------------
+| time/                   |             |
+|    fps                  | 35          |
+|    iterations           | 34          |
+|    time_elapsed         | 1972        |
+|    total_timesteps      | 69632       |
+| train/                  |             |
+|    approx_kl            | 0.009871915 |
+|    clip_fraction        | 0.0859      |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -1.78       |
+|    explained_variance   | -1.19e-07   |
+|    learning_rate        | 0.0003      |
+|    loss                 | 6.54e+03    |
+|    n_updates            | 330         |
+|    policy_gradient_loss | -0.00654    |
+|    value_loss           | 2.47e+04    |
+-----------------------------------------

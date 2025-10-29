@@ -1,0 +1,3008 @@
+Executing the program with the following arguments
+ArgumentParser(prog='main.py', usage=None, description='crowd evacuation', formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+Namespace(aoi_size=100, load_pretrained=1, policy_type='DQN', time_steps=10000)
+Using GPU
+Selected target is  target3
+Starting the Evaluation....
+Selected target is  target3
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  63
+Selected target is  target2
+Agent has collided with fire after 83 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has collided with fire after 109 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 22 steps.
+The episodic return is  -991
+Selected target is  target1
+Agent has collided with fire after 59 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has reached target2 after 26 steps.
+The episodic return is  43
+Selected target is  target1
+Agent has collided with fire after 35 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  28
+Selected target is  target3
+Agent has collided with fire after 29 steps.
+The episodic return is  -992
+Selected target is  target4
+Agent has collided with fire after 79 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has reached target4 after 5 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target4 after 8 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has collided with fire after 65 steps.
+The episodic return is  -993
+Selected target is  target4
+Agent has collided with fire after 45 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has collided with fire after 25 steps.
+The episodic return is  -993
+Selected target is  target3
+Agent has collided with fire after 23 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has collided with fire after 97 steps.
+The episodic return is  -991
+Selected target is  target1
+Agent has collided with fire after 11 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 9 steps.
+The episodic return is  38
+Selected target is  target3
+Agent has reached target4 after 10 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  41
+Selected target is  target1
+Agent has reached target2 after 24 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 55 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target2 after 24 steps.
+The episodic return is  28
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  31
+Selected target is  target1
+Agent has collided with fire after 5 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 57 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has reached target2 after 23 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has collided with fire after 43 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target4 after 13 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has collided with fire after 71 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 37 steps.
+The episodic return is  -997
+Selected target is  target2
+Agent has reached target4 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target4 after 8 steps.
+The episodic return is  55
+Selected target is  target4
+Agent has reached target2 after 25 steps.
+The episodic return is  21
+Selected target is  target1
+Agent has collided with fire after 29 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 18 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 11 steps.
+The episodic return is  59
+Selected target is  target3
+Agent has reached target4 after 8 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target2 after 17 steps.
+The episodic return is  39
+Selected target is  target1
+Agent has collided with fire after 11 steps.
+The episodic return is  -996
+Selected target is  target2
+Agent has collided with fire after 13 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 12 steps.
+The episodic return is  60
+Selected target is  target2
+Agent has reached target2 after 25 steps.
+The episodic return is  55
+Selected target is  target3
+Agent has reached target4 after 13 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  40
+Selected target is  target1
+Agent has reached target3 after 12 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 73 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 7 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target3 after 27 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has collided with fire after 30 steps.
+The episodic return is  -996
+Selected target is  target3
+Agent has collided with fire after 12 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target2 after 21 steps.
+The episodic return is  7
+Selected target is  target3
+Agent has collided with fire after 35 steps.
+The episodic return is  -988
+Selected target is  target4
+Agent has reached target2 after 21 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has collided with fire after 47 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 13 steps.
+The episodic return is  -991
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  27
+Selected target is  target4
+Agent has reached target2 after 32 steps.
+The episodic return is  30
+Selected target is  target2
+Agent has reached target4 after 10 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target2 after 30 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has collided with fire after 27 steps.
+The episodic return is  -996
+Selected target is  target3
+Agent has reached target2 after 26 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has collided with fire after 63 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 15 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has reached target2 after 26 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 55 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has reached target3 after 11 steps.
+The episodic return is  45
+Selected target is  target4
+Agent has reached target4 after 11 steps.
+The episodic return is  54
+Selected target is  target4
+Agent has collided with fire after 14 steps.
+The episodic return is  -991
+Selected target is  target2
+Agent has reached target2 after 18 steps.
+The episodic return is  28
+Selected target is  target3
+Agent has reached target4 after 16 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has collided with fire after 91 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 47 steps.
+The episodic return is  -989
+Selected target is  target4
+Agent has collided with fire after 145 steps.
+The episodic return is  -972
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  37
+Selected target is  target2
+Agent has collided with fire after 63 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has reached target3 after 17 steps.
+The episodic return is  4
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 20 steps.
+The episodic return is  43
+Selected target is  target2
+Agent has collided with fire after 63 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 85 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has collided with fire after 155 steps.
+The episodic return is  -984
+Selected target is  target4
+Agent has reached target4 after 13 steps.
+The episodic return is  49
+Selected target is  target4
+Agent has collided with fire after 23 steps.
+The episodic return is  -984
+Selected target is  target3
+Agent has reached target4 after 12 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  32
+Selected target is  target4
+Agent has reached target2 after 19 steps.
+The episodic return is  18
+Selected target is  target3
+Agent has reached target4 after 11 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has collided with fire after 17 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 35 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target2 after 27 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has collided with fire after 7 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 6 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has collided with fire after 87 steps.
+The episodic return is  -989
+Selected target is  target4
+Agent has collided with fire after 73 steps.
+The episodic return is  -991
+Selected target is  target3
+Agent has reached target2 after 28 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target2 after 30 steps.
+The episodic return is  4
+Selected target is  target3
+Agent has reached target2 after 24 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target2 after 22 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target4 after 11 steps.
+The episodic return is  4
+Selected target is  target3
+Agent has reached target4 after 13 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has collided with fire after 31 steps.
+The episodic return is  -995
+Selected target is  target1
+Agent has collided with fire after 29 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 12 steps.
+The episodic return is  49
+Selected target is  target3
+Agent has collided with fire after 105 steps.
+The episodic return is  -995
+Selected target is  target2
+Agent has collided with fire after 59 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 11 steps.
+The episodic return is  40
+Selected target is  target3
+Agent has reached target3 after 15 steps.
+The episodic return is  36
+Selected target is  target2
+Agent has reached target2 after 15 steps.
+The episodic return is  43
+Selected target is  target2
+Agent has collided with fire after 30 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has collided with fire after 257 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target4 after 5 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 9 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has collided with fire after 127 steps.
+The episodic return is  -987
+Selected target is  target3
+Agent has reached target4 after 6 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target4 after 13 steps.
+The episodic return is  46
+Selected target is  target2
+Agent has reached target2 after 25 steps.
+The episodic return is  39
+Selected target is  target4
+Agent has reached target3 after 16 steps.
+The episodic return is  9
+Selected target is  target4
+Agent has collided with fire after 73 steps.
+The episodic return is  -978
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  38
+Selected target is  target3
+Agent has collided with fire after 22 steps.
+The episodic return is  -991
+Selected target is  target2
+Agent has collided with fire after 15 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 9 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 81 steps.
+The episodic return is  -993
+Selected target is  target1
+Agent has collided with fire after 37 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  40
+Selected target is  target1
+Agent has collided with fire after 51 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has reached target4 after 7 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has collided with fire after 63 steps.
+The episodic return is  -985
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  25
+Selected target is  target4
+Agent has reached target2 after 24 steps.
+The episodic return is  33
+Selected target is  target1
+Agent has collided with fire after 23 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  25
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  46
+Selected target is  target4
+Agent has collided with fire after 23 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has reached target4 after 10 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target4 after 9 steps.
+The episodic return is  52
+Selected target is  target1
+Agent has collided with fire after 7 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has reached target2 after 19 steps.
+The episodic return is  59
+Selected target is  target1
+Agent has reached target3 after 19 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  23
+Selected target is  target2
+Agent has reached target2 after 11 steps.
+The episodic return is  54
+Selected target is  target3
+Agent has collided with fire after 65 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target2 after 14 steps.
+The episodic return is  37
+Selected target is  target2
+Agent has reached target2 after 24 steps.
+The episodic return is  53
+Selected target is  target4
+Agent has reached target2 after 23 steps.
+The episodic return is  34
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  29
+Selected target is  target2
+Agent has reached target2 after 22 steps.
+The episodic return is  34
+Selected target is  target4
+Agent has reached target4 after 9 steps.
+The episodic return is  47
+Selected target is  target3
+Agent has collided with fire after 81 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has collided with fire after 119 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target4 after 9 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target4 after 13 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target2 after 28 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  33
+Selected target is  target4
+Agent has collided with fire after 19 steps.
+The episodic return is  -980
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  41
+Selected target is  target1
+Agent has collided with fire after 39 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 23 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 15 steps.
+The episodic return is  -997
+Selected target is  target3
+Agent has collided with fire after 23 steps.
+The episodic return is  -988
+Selected target is  target4
+Agent has reached target4 after 8 steps.
+The episodic return is  39
+Selected target is  target1
+Agent has collided with fire after 41 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has reached target4 after 11 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  49
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has collided with fire after 7 steps.
+The episodic return is  -994
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  25
+Selected target is  target4
+Agent has reached target2 after 24 steps.
+The episodic return is  18
+Selected target is  target3
+Agent has reached target4 after 9 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target3 after 19 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target2 after 17 steps.
+The episodic return is  59
+Selected target is  target3
+Agent has collided with fire after 103 steps.
+The episodic return is  -991
+Selected target is  target3
+Agent has collided with fire after 75 steps.
+The episodic return is  -991
+Selected target is  target2
+Agent has reached target2 after 26 steps.
+The episodic return is  42
+Selected target is  target2
+Agent has reached target2 after 26 steps.
+The episodic return is  38
+Selected target is  target2
+Agent has collided with fire after 9 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 211 steps.
+The episodic return is  -993
+Selected target is  target4
+Agent has reached target4 after 9 steps.
+The episodic return is  41
+Selected target is  target2
+Agent has reached target4 after 6 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has collided with fire after 61 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 101 steps.
+The episodic return is  -997
+Selected target is  target1
+Agent has collided with fire after 47 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has collided with fire after 18 steps.
+The episodic return is  -983
+Selected target is  target1
+Agent has collided with fire after 39 steps.
+The episodic return is  -996
+Selected target is  target2
+Agent has reached target2 after 19 steps.
+The episodic return is  41
+Selected target is  target2
+Agent has reached target2 after 22 steps.
+The episodic return is  63
+Selected target is  target2
+Agent has reached target4 after 13 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has collided with fire after 19 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  37
+Selected target is  target3
+Agent has collided with fire after 67 steps.
+The episodic return is  -997
+Selected target is  target3
+Agent has reached target4 after 12 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target2 after 23 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has collided with fire after 103 steps.
+The episodic return is  -984
+Selected target is  target3
+Agent has collided with fire after 45 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 63 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target3 after 18 steps.
+The episodic return is  51
+Selected target is  target2
+Agent has reached target2 after 27 steps.
+The episodic return is  50
+Selected target is  target1
+Agent has reached target3 after 16 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  42
+Selected target is  target3
+Agent has reached target4 after 10 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has collided with fire after 123 steps.
+The episodic return is  -995
+Selected target is  target3
+Agent has reached target4 after 13 steps.
+The episodic return is  5
+Selected target is  target1
+Agent has collided with fire after 25 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 117 steps.
+The episodic return is  -996
+Selected target is  target3
+Agent has reached target2 after 25 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has collided with fire after 19 steps.
+The episodic return is  -975
+Selected target is  target2
+Agent has collided with fire after 7 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  33
+Selected target is  target3
+Agent has collided with fire after 121 steps.
+The episodic return is  -994
+Selected target is  target1
+Agent has collided with fire after 19 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 15 steps.
+The episodic return is  -995
+Selected target is  target2
+Agent has collided with fire after 29 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target2 after 21 steps.
+The episodic return is  34
+Selected target is  target1
+Agent has collided with fire after 39 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  33
+Selected target is  target2
+Agent has reached target2 after 18 steps.
+The episodic return is  63
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  37
+Selected target is  target3
+Agent has reached target4 after 9 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 55 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 29 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  48
+Selected target is  target3
+Agent has reached target2 after 36 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has collided with fire after 73 steps.
+The episodic return is  -996
+Selected target is  target2
+Agent has reached target4 after 12 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has collided with fire after 85 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  35
+Selected target is  target2
+Agent has reached target2 after 15 steps.
+The episodic return is  36
+Selected target is  target3
+Agent has collided with fire after 83 steps.
+The episodic return is  -993
+Selected target is  target4
+Agent has reached target4 after 17 steps.
+The episodic return is  47
+Selected target is  target2
+Agent has collided with fire after 11 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 165 steps.
+The episodic return is  -994
+Selected target is  target3
+Agent has collided with fire after 93 steps.
+The episodic return is  -988
+Selected target is  target3
+Agent has collided with fire after 9 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has collided with fire after 139 steps.
+The episodic return is  -997
+Selected target is  target3
+Agent has reached target3 after 71 steps.
+The episodic return is  63
+Selected target is  target1
+Agent has collided with fire after 83 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 83 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 30 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 16 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has collided with fire after 45 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 15 steps.
+The episodic return is  -997
+Selected target is  target1
+Agent has collided with fire after 41 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  36
+Selected target is  target4
+Agent has reached target2 after 20 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target2 after 23 steps.
+The episodic return is  69
+Selected target is  target2
+Agent has reached target4 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target4 after 7 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 45 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has collided with fire after 22 steps.
+The episodic return is  -995
+Selected target is  target3
+Agent has collided with fire after 23 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target2 after 28 steps.
+The episodic return is  22
+Selected target is  target2
+Agent has reached target4 after 3 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 67 steps.
+The episodic return is  -997
+Selected target is  target2
+Agent has reached target2 after 26 steps.
+The episodic return is  51
+Selected target is  target3
+Agent has reached target4 after 12 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has collided with fire after 13 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has reached target3 after 21 steps.
+The episodic return is  45
+Selected target is  target4
+Agent has reached target2 after 24 steps.
+The episodic return is  22
+Selected target is  target3
+Agent has collided with fire after 87 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 29 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  37
+Selected target is  target3
+Agent has reached target2 after 22 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target2 after 30 steps.
+The episodic return is  23
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  42
+Selected target is  target3
+Agent has collided with fire after 21 steps.
+The episodic return is  -992
+Selected target is  target4
+Agent has collided with fire after 109 steps.
+The episodic return is  -993
+Selected target is  target1
+Agent has collided with fire after 45 steps.
+The episodic return is  -996
+Selected target is  target2
+Agent has reached target4 after 12 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target2 after 25 steps.
+The episodic return is  19
+Selected target is  target2
+Agent has collided with fire after 11 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has collided with fire after 19 steps.
+The episodic return is  -971
+Selected target is  target2
+Agent has collided with fire after 15 steps.
+The episodic return is  -995
+Selected target is  target3
+Agent has reached target4 after 4 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 37 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target2 after 17 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target2 after 24 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target2 after 22 steps.
+The episodic return is  37
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  42
+Selected target is  target1
+Agent has collided with fire after 57 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 8 steps.
+The episodic return is  43
+Selected target is  target4
+Agent has reached target2 after 30 steps.
+The episodic return is  4
+Selected target is  target1
+Agent has collided with fire after 119 steps.
+The episodic return is  -996
+Selected target is  target1
+Agent has collided with fire after 9 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target2 after 26 steps.
+The episodic return is  13
+Selected target is  target2
+Agent has reached target4 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 17 steps.
+The episodic return is  45
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  43
+Selected target is  target3
+Agent has collided with fire after 103 steps.
+The episodic return is  -991
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  29
+Selected target is  target1
+Agent has collided with fire after 12 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has collided with fire after 71 steps.
+The episodic return is  -992
+Selected target is  target2
+Agent has reached target4 after 5 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target2 after 17 steps.
+The episodic return is  32
+Selected target is  target2
+Agent has reached target4 after 12 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target4 after 11 steps.
+The episodic return is  60
+Selected target is  target2
+Agent has reached target4 after 6 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 7 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 93 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target2 after 22 steps.
+The episodic return is  24
+Selected target is  target3
+Agent has collided with fire after 21 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target4 after 8 steps.
+The episodic return is  47
+Selected target is  target2
+Agent has reached target2 after 26 steps.
+The episodic return is  61
+Selected target is  target2
+Agent has collided with fire after 37 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target4 after 16 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has collided with fire after 12 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has reached target4 after 5 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  33
+Selected target is  target3
+Agent has collided with fire after 39 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target2 after 36 steps.
+The episodic return is  4
+Selected target is  target2
+Agent has collided with fire after 19 steps.
+The episodic return is  -995
+Selected target is  target2
+Agent has collided with fire after 105 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target2 after 13 steps.
+The episodic return is  31
+Selected target is  target4
+Agent has collided with fire after 63 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target3 after 20 steps.
+The episodic return is  63
+Selected target is  target1
+Agent has reached target2 after 35 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 85 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 31 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 26 steps.
+The episodic return is  -996
+Selected target is  target2
+Agent has reached target2 after 20 steps.
+The episodic return is  34
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  49
+Selected target is  target2
+Agent has collided with fire after 7 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target4 after 7 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has collided with fire after 27 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  44
+Selected target is  target3
+Agent has collided with fire after 13 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has reached target4 after 8 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 61 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 19 steps.
+The episodic return is  -994
+Selected target is  target2
+Agent has collided with fire after 12 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 31 steps.
+The episodic return is  -977
+Selected target is  target4
+Agent has collided with fire after 111 steps.
+The episodic return is  -982
+Selected target is  target3
+Agent has reached target2 after 28 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has collided with fire after 19 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has collided with fire after 13 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target2 after 23 steps.
+The episodic return is  22
+Selected target is  target3
+Agent has reached target4 after 11 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target4 after 12 steps.
+The episodic return is  60
+Selected target is  target2
+Agent has reached target2 after 28 steps.
+The episodic return is  57
+Selected target is  target2
+Agent has reached target2 after 20 steps.
+The episodic return is  65
+Selected target is  target4
+Agent has reached target4 after 8 steps.
+The episodic return is  55
+Selected target is  target1
+Agent has collided with fire after 73 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 15 steps.
+The episodic return is  51
+Selected target is  target2
+Agent has reached target2 after 31 steps.
+The episodic return is  59
+Selected target is  target3
+Agent has reached target3 after 18 steps.
+The episodic return is  61
+Selected target is  target4
+Agent has collided with fire after 37 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 25 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  33
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 147 steps.
+The episodic return is  -994
+Selected target is  target4
+Agent has collided with fire after 97 steps.
+The episodic return is  -996
+Selected target is  target3
+Agent has collided with fire after 12 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  57
+Selected target is  target3
+Agent has collided with fire after 45 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 127 steps.
+The episodic return is  -994
+Selected target is  target2
+Agent has reached target3 after 16 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target4 after 8 steps.
+The episodic return is  42
+Selected target is  target3
+Agent has collided with fire after 30 steps.
+The episodic return is  -965
+Selected target is  target4
+Agent has collided with fire after 17 steps.
+The episodic return is  -982
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  37
+Selected target is  target3
+Agent has reached target2 after 24 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has collided with fire after 13 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 17 steps.
+The episodic return is  -997
+Selected target is  target3
+Agent has collided with fire after 97 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 45 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has reached target3 after 28 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has collided with fire after 53 steps.
+The episodic return is  -985
+Selected target is  target2
+Agent has reached target2 after 20 steps.
+The episodic return is  36
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  25
+Selected target is  target3
+Agent has collided with fire after 14 steps.
+The episodic return is  -994
+Selected target is  target3
+Agent has collided with fire after 65 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  25
+Selected target is  target2
+Agent has collided with fire after 79 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 89 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has reached target4 after 13 steps.
+The episodic return is  53
+Selected target is  target3
+Agent has reached target4 after 12 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has collided with fire after 51 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target4 after 4 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 19 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has collided with fire after 27 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 21 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 27 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 18 steps.
+The episodic return is  47
+Selected target is  target3
+Agent has reached target2 after 24 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  31
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  38
+Selected target is  target3
+Agent has collided with fire after 87 steps.
+The episodic return is  -996
+Selected target is  target3
+Agent has collided with fire after 109 steps.
+The episodic return is  -988
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  43
+Selected target is  target1
+Agent has collided with fire after 67 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has reached target2 after 32 steps.
+The episodic return is  50
+Selected target is  target1
+Agent has reached target2 after 28 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 33 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  27
+Selected target is  target2
+Agent has collided with fire after 85 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  50
+Selected target is  target3
+Agent has reached target4 after 11 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has reached target2 after 18 steps.
+The episodic return is  54
+Selected target is  target1
+Agent has collided with fire after 17 steps.
+The episodic return is  -996
+Selected target is  target3
+Agent has collided with fire after 21 steps.
+The episodic return is  -991
+Selected target is  target2
+Agent has reached target4 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target2 after 27 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has reached target4 after 12 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target4 after 11 steps.
+The episodic return is  43
+Selected target is  target3
+Agent has reached target4 after 4 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has collided with fire after 3 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has reached target2 after 21 steps.
+The episodic return is  47
+Selected target is  target2
+Agent has reached target2 after 22 steps.
+The episodic return is  38
+Selected target is  target3
+Agent has reached target4 after 6 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 17 steps.
+The episodic return is  42
+Selected target is  target1
+Agent has reached target2 after 26 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has collided with fire after 41 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  38
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  36
+Selected target is  target2
+Agent has reached target2 after 15 steps.
+The episodic return is  29
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  46
+Selected target is  target2
+Agent has reached target2 after 34 steps.
+The episodic return is  36
+Selected target is  target2
+Agent has collided with fire after 149 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has collided with fire after 14 steps.
+The episodic return is  -982
+Selected target is  target3
+Agent has collided with fire after 21 steps.
+The episodic return is  -964
+Selected target is  target1
+Agent has reached target2 after 26 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 49 steps.
+The episodic return is  -996
+Selected target is  target1
+Agent has collided with fire after 41 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has reached target2 after 24 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  41
+Selected target is  target4
+Agent has collided with fire after 157 steps.
+The episodic return is  -989
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  48
+Selected target is  target3
+Agent has collided with fire after 59 steps.
+The episodic return is  -994
+Selected target is  target4
+Agent has reached target2 after 28 steps.
+The episodic return is  29
+Selected target is  target4
+Agent has reached target4 after 8 steps.
+The episodic return is  55
+Selected target is  target4
+Agent has collided with fire after 93 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 21 steps.
+The episodic return is  -984
+Selected target is  target4
+Agent has collided with fire after 167 steps.
+The episodic return is  -970
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  33
+Selected target is  target2
+Agent has reached target2 after 17 steps.
+The episodic return is  48
+Selected target is  target2
+Agent has reached target2 after 25 steps.
+The episodic return is  43
+Selected target is  target3
+Agent has reached target3 after 14 steps.
+The episodic return is  46
+Selected target is  target2
+Agent has reached target2 after 33 steps.
+The episodic return is  35
+Selected target is  target3
+Agent has reached target3 after 24 steps.
+The episodic return is  73
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  32
+Selected target is  target2
+Agent has reached target2 after 25 steps.
+The episodic return is  49
+Selected target is  target1
+Agent has collided with fire after 101 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has collided with fire after 85 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  44
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  36
+Selected target is  target3
+Agent has collided with fire after 51 steps.
+The episodic return is  -973
+Selected target is  target3
+Agent has collided with fire after 105 steps.
+The episodic return is  -989
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  42
+Selected target is  target3
+Agent has collided with fire after 5 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has collided with fire after 117 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target2 after 27 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target2 after 23 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target2 after 21 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has collided with fire after 83 steps.
+The episodic return is  -995
+Selected target is  target2
+Agent has reached target2 after 19 steps.
+The episodic return is  49
+Selected target is  target3
+Agent has collided with fire after 27 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has collided with fire after 41 steps.
+The episodic return is  -996
+Selected target is  target1
+Agent has collided with fire after 21 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has reached target2 after 12 steps.
+The episodic return is  53
+Selected target is  target1
+Agent has collided with fire after 28 steps.
+The episodic return is  -996
+Selected target is  target2
+Agent has reached target4 after 8 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 71 steps.
+The episodic return is  -996
+Selected target is  target1
+Agent has collided with fire after 19 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target4 after 9 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 45 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 169 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target4 after 10 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target4 after 7 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 11 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  33
+Selected target is  target3
+Agent has reached target4 after 6 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  32
+Selected target is  target2
+Agent has collided with fire after 25 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has collided with fire after 9 steps.
+The episodic return is  -992
+Selected target is  target2
+Agent has collided with fire after 95 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target2 after 18 steps.
+The episodic return is  59
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  43
+Selected target is  target4
+Agent has collided with fire after 117 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target4 after 9 steps.
+The episodic return is  48
+Selected target is  target1
+Agent has reached target3 after 14 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  45
+Selected target is  target4
+Agent has reached target2 after 34 steps.
+The episodic return is  5
+Selected target is  target1
+Agent has collided with fire after 25 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 15 steps.
+The episodic return is  -984
+Selected target is  target1
+Agent has collided with fire after 7 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 17 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 7 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target2 after 21 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has collided with fire after 41 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has reached target4 after 12 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target2 after 32 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target4 after 9 steps.
+The episodic return is  46
+Selected target is  target1
+Agent has collided with fire after 16 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 111 steps.
+The episodic return is  -986
+Selected target is  target4
+Agent has reached target2 after 28 steps.
+The episodic return is  25
+Selected target is  target1
+Agent has collided with fire after 11 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has collided with fire after 69 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  39
+Selected target is  target2
+Agent has reached target2 after 22 steps.
+The episodic return is  45
+Selected target is  target2
+Agent has reached target2 after 18 steps.
+The episodic return is  35
+Selected target is  target1
+Agent has collided with fire after 49 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  34
+Selected target is  target3
+Agent has collided with fire after 117 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  30
+Selected target is  target4
+Agent has collided with fire after 77 steps.
+The episodic return is  -996
+Selected target is  target1
+Agent has collided with fire after 27 steps.
+The episodic return is  -997
+Selected target is  target2
+Agent has reached target4 after 9 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  32
+Selected target is  target2
+Agent has collided with fire after 39 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has collided with fire after 137 steps.
+The episodic return is  -988
+Selected target is  target3
+Agent has collided with fire after 117 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 87 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has collided with fire after 31 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 41 steps.
+The episodic return is  -997
+Selected target is  target1
+Agent has reached target4 after 13 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target4 after 10 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has collided with fire after 7 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 17 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 9 steps.
+The episodic return is  42
+Selected target is  target1
+Agent has collided with fire after 5 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 10 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 37 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 21 steps.
+The episodic return is  -979
+Selected target is  target4
+Agent has reached target4 after 8 steps.
+The episodic return is  36
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  36
+Selected target is  target3
+Agent has reached target4 after 14 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target4 after 13 steps.
+The episodic return is  4
+Selected target is  target2
+Agent has reached target2 after 35 steps.
+The episodic return is  33
+Selected target is  target2
+Agent has collided with fire after 137 steps.
+The episodic return is  -997
+Selected target is  target2
+Agent has collided with fire after 51 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has reached target4 after 13 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target3 after 23 steps.
+The episodic return is  25
+Selected target is  target4
+Agent has collided with fire after 91 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 103 steps.
+The episodic return is  -992
+Selected target is  target3
+Agent has collided with fire after 17 steps.
+The episodic return is  -993
+Selected target is  target2
+Agent has reached target2 after 21 steps.
+The episodic return is  38
+Selected target is  target2
+Agent has collided with fire after 61 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 12 steps.
+The episodic return is  -996
+Selected target is  target2
+Agent has collided with fire after 101 steps.
+The episodic return is  -995
+Selected target is  target2
+Agent has collided with fire after 149 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target2 after 21 steps.
+The episodic return is  44
+Selected target is  target1
+Agent has collided with fire after 67 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 55 steps.
+The episodic return is  -996
+Selected target is  target2
+Agent has reached target2 after 17 steps.
+The episodic return is  51
+Selected target is  target3
+Agent has collided with fire after 21 steps.
+The episodic return is  -997
+Selected target is  target2
+Agent has reached target4 after 4 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 55 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  40
+Selected target is  target4
+Agent has reached target2 after 28 steps.
+The episodic return is  16
+Selected target is  target4
+Agent has collided with fire after 103 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 14 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 14 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  46
+Selected target is  target4
+Agent has reached target4 after 11 steps.
+The episodic return is  51
+Selected target is  target1
+Agent has collided with fire after 16 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has collided with fire after 91 steps.
+The episodic return is  -995
+Selected target is  target4
+Agent has reached target2 after 19 steps.
+The episodic return is  6
+Selected target is  target4
+Agent has collided with fire after 59 steps.
+The episodic return is  -996
+Selected target is  target1
+Agent has reached target2 after 32 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target2 after 25 steps.
+The episodic return is  39
+Selected target is  target1
+Agent has reached target3 after 18 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target4 after 9 steps.
+The episodic return is  57
+Selected target is  target3
+Agent has reached target4 after 9 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target2 after 24 steps.
+The episodic return is  51
+Selected target is  target2
+Agent has reached target4 after 13 steps.
+The episodic return is  3
+Selected target is  target2
+Agent has collided with fire after 19 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 89 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  47
+Selected target is  target1
+Agent has collided with fire after 19 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 19 steps.
+The episodic return is  -994
+Selected target is  target2
+Agent has reached target2 after 13 steps.
+The episodic return is  37
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  37
+Selected target is  target2
+Agent has collided with fire after 9 steps.
+The episodic return is  -997
+Selected target is  target3
+Agent has collided with fire after 19 steps.
+The episodic return is  -987
+Selected target is  target4
+Agent has reached target2 after 28 steps.
+The episodic return is  25
+Selected target is  target4
+Agent has collided with fire after 111 steps.
+The episodic return is  -982
+Selected target is  target2
+Agent has reached target2 after 26 steps.
+The episodic return is  61
+Selected target is  target3
+Agent has collided with fire after 123 steps.
+The episodic return is  -997
+Selected target is  target1
+Agent has collided with fire after 35 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 11 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has collided with fire after 25 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  46
+Selected target is  target1
+Agent has collided with fire after 6 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  40
+Selected target is  target3
+Agent has collided with fire after 71 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  37
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  27
+Selected target is  target4
+Agent has reached target4 after 11 steps.
+The episodic return is  40
+Selected target is  target4
+Agent has reached target4 after 12 steps.
+The episodic return is  45
+Selected target is  target3
+Agent has collided with fire after 17 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 95 steps.
+The episodic return is  -996
+Selected target is  target3
+Agent has reached target4 after 7 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 165 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target3 after 14 steps.
+The episodic return is  41
+Selected target is  target2
+Agent has collided with fire after 79 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has collided with fire after 117 steps.
+The episodic return is  -990
+Selected target is  target2
+Agent has collided with fire after 5 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  43
+Selected target is  target4
+Agent has reached target4 after 8 steps.
+The episodic return is  37
+Selected target is  target4
+Agent has reached target4 after 2 steps.
+The episodic return is  17
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  33
+Selected target is  target3
+Agent has reached target3 after 13 steps.
+The episodic return is  46
+Selected target is  target2
+Agent has reached target2 after 25 steps.
+The episodic return is  53
+Selected target is  target2
+Agent has reached target4 after 13 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has collided with fire after 29 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 14 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 9 steps.
+The episodic return is  47
+Selected target is  target4
+Agent has collided with fire after 13 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 18 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has collided with fire after 14 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 21 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 19 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target2 after 32 steps.
+The episodic return is  33
+Selected target is  target2
+Agent has collided with fire after 15 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  23
+Selected target is  target3
+Agent has collided with fire after 19 steps.
+The episodic return is  -967
+Selected target is  target3
+Agent has collided with fire after 19 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has reached target2 after 21 steps.
+The episodic return is  49
+Selected target is  target2
+Agent has reached target2 after 22 steps.
+The episodic return is  69
+Selected target is  target2
+Agent has reached target4 after 12 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  40
+Selected target is  target1
+Agent has reached target2 after 28 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target4 after 8 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target2 after 22 steps.
+The episodic return is  19
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  38
+Selected target is  target1
+Agent has collided with fire after 31 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has collided with fire after 155 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target2 after 17 steps.
+The episodic return is  43
+Selected target is  target4
+Agent has reached target2 after 30 steps.
+The episodic return is  34
+Selected target is  target4
+Agent has reached target2 after 35 steps.
+The episodic return is  4
+Selected target is  target3
+Agent has collided with fire after 85 steps.
+The episodic return is  -996
+Selected target is  target2
+Agent has reached target2 after 19 steps.
+The episodic return is  42
+Selected target is  target1
+Agent has reached target2 after 27 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target4 after 13 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target2 after 24 steps.
+The episodic return is  47
+Selected target is  target3
+Agent has reached target2 after 24 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has collided with fire after 16 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target4 after 11 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has collided with fire after 5 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 11 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has reached target2 after 19 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has collided with fire after 67 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  35
+Selected target is  target1
+Agent has collided with fire after 71 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target4 after 12 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  28
+Selected target is  target4
+Agent has collided with fire after 95 steps.
+The episodic return is  -997
+Selected target is  target2
+Agent has reached target3 after 18 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has collided with fire after 9 steps.
+The episodic return is  -997
+Selected target is  target2
+Agent has collided with fire after 8 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has reached target3 after 25 steps.
+The episodic return is  49
+Selected target is  target3
+Agent has reached target3 after 20 steps.
+The episodic return is  53
+Selected target is  target2
+Agent has reached target2 after 26 steps.
+The episodic return is  61
+Selected target is  target3
+Agent has collided with fire after 49 steps.
+The episodic return is  -979
+Selected target is  target3
+Agent has collided with fire after 25 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target2 after 28 steps.
+The episodic return is  17
+Selected target is  target2
+Agent has reached target2 after 21 steps.
+The episodic return is  51
+Selected target is  target2
+Agent has reached target4 after 5 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 47 steps.
+The episodic return is  -997
+Selected target is  target1
+Agent has reached target4 after 13 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has collided with fire after 14 steps.
+The episodic return is  -991
+Selected target is  target4
+Agent has collided with fire after 14 steps.
+The episodic return is  -977
+Selected target is  target2
+Agent has collided with fire after 83 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  33
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  48
+Selected target is  target3
+Agent has collided with fire after 31 steps.
+The episodic return is  -997
+Selected target is  target1
+Agent has collided with fire after 43 steps.
+The episodic return is  -996
+Selected target is  target1
+Agent has collided with fire after 11 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target2 after 28 steps.
+The episodic return is  19
+Selected target is  target4
+Agent has reached target4 after 9 steps.
+The episodic return is  52
+Selected target is  target3
+Agent has collided with fire after 75 steps.
+The episodic return is  -989
+Selected target is  target2
+Agent has collided with fire after 33 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  42
+Selected target is  target3
+Agent has collided with fire after 131 steps.
+The episodic return is  -994
+Selected target is  target3
+Agent has collided with fire after 53 steps.
+The episodic return is  -996
+Selected target is  target2
+Agent has reached target2 after 22 steps.
+The episodic return is  59
+Selected target is  target4
+Agent has reached target2 after 14 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 59 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target3 after 14 steps.
+The episodic return is  46
+Selected target is  target3
+Agent has reached target3 after 13 steps.
+The episodic return is  41
+Selected target is  target3
+Agent has reached target3 after 18 steps.
+The episodic return is  44
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  37
+Selected target is  target3
+Agent has collided with fire after 95 steps.
+The episodic return is  -995
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  33
+Selected target is  target4
+Agent has reached target4 after 8 steps.
+The episodic return is  43
+Selected target is  target1
+Agent has reached target2 after 21 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target4 after 7 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target2 after 24 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target4 after 9 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has collided with fire after 75 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has reached target4 after 9 steps.
+The episodic return is  39
+Selected target is  target3
+Agent has collided with fire after 49 steps.
+The episodic return is  -997
+Selected target is  target2
+Agent has reached target4 after 7 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target2 after 26 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  46
+Selected target is  target3
+Agent has collided with fire after 25 steps.
+The episodic return is  -973
+Selected target is  target1
+Agent has reached target2 after 28 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  38
+Selected target is  target4
+Agent has reached target4 after 8 steps.
+The episodic return is  39
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  32
+Selected target is  target4
+Agent has reached target2 after 21 steps.
+The episodic return is  4
+Selected target is  target3
+Agent has reached target4 after 8 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has collided with fire after 31 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 59 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  35
+Selected target is  target2
+Agent has reached target4 after 8 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target4 after 8 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has collided with fire after 69 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 18 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has reached target4 after 12 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target4 after 11 steps.
+The episodic return is  40
+Selected target is  target4
+Agent has collided with fire after 18 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 8 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 73 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  53
+Selected target is  target2
+Agent has collided with fire after 24 steps.
+The episodic return is  -997
+Selected target is  target1
+Agent has collided with fire after 9 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 95 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target2 after 17 steps.
+The episodic return is  36
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  29
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  35
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  40
+Selected target is  target1
+Agent has reached target3 after 66 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  33
+Selected target is  target4
+Agent has reached target4 after 9 steps.
+The episodic return is  39
+Selected target is  target2
+Agent has collided with fire after 5 steps.
+Agent has reached target4 after 5 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target2 after 22 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has collided with fire after 9 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  27
+Selected target is  target3
+Agent has collided with fire after 8 steps.
+The episodic return is  -996
+Selected target is  target3
+Agent has collided with fire after 39 steps.
+The episodic return is  -994
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  41
+Selected target is  target1
+Agent has collided with fire after 10 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has reached target4 after 13 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 13 steps.
+The episodic return is  53
+Selected target is  target2
+Agent has reached target2 after 23 steps.
+The episodic return is  68
+Selected target is  target3
+Agent has reached target2 after 23 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has collided with fire after 23 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has collided with fire after 93 steps.
+The episodic return is  -988
+Selected target is  target1
+Agent has reached target4 after 9 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has collided with fire after 187 steps.
+The episodic return is  -995
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  52
+Selected target is  target2
+Agent has reached target2 after 28 steps.
+The episodic return is  47
+Selected target is  target3
+Agent has reached target4 after 3 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target3 after 18 steps.
+The episodic return is  45
+Selected target is  target1
+Agent has reached target2 after 19 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  33
+Selected target is  target3
+Agent has reached target2 after 22 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has collided with fire after 41 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target4 after 12 steps.
+The episodic return is  5
+Selected target is  target4
+Agent has reached target2 after 25 steps.
+The episodic return is  39
+Selected target is  target2
+Agent has reached target2 after 30 steps.
+The episodic return is  42
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  40
+Selected target is  target3
+Agent has collided with fire after 17 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has collided with fire after 27 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  26
+Selected target is  target2
+Agent has collided with fire after 77 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  35
+Selected target is  target2
+Agent has reached target2 after 25 steps.
+The episodic return is  45
+Selected target is  target4
+Agent has reached target2 after 23 steps.
+The episodic return is  26
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  41
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  35
+Selected target is  target3
+Agent has reached target4 after 10 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target2 after 23 steps.
+The episodic return is  32
+Selected target is  target1
+Agent has collided with fire after 9 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 21 steps.
+The episodic return is  -989
+Selected target is  target2
+Agent has reached target4 after 9 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has collided with fire after 29 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 149 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has collided with fire after 145 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has reached target3 after 19 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target4 after 5 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  24
+Selected target is  target4
+Agent has reached target2 after 24 steps.
+The episodic return is  10
+Selected target is  target3
+Agent has reached target4 after 11 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  52
+Selected target is  target3
+Agent has reached target3 after 14 steps.
+The episodic return is  42
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  57
+Selected target is  target4
+Agent has collided with fire after 75 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target2 after 26 steps.
+The episodic return is  24
+Selected target is  target3
+Agent has collided with fire after 15 steps.
+The episodic return is  -992
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  42
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  26
+Selected target is  target3
+Agent has collided with fire after 10 steps.
+The episodic return is  -994
+Selected target is  target3
+Agent has collided with fire after 207 steps.
+The episodic return is  -991
+Selected target is  target2
+Agent has reached target4 after 11 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has collided with fire after 14 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 29 steps.
+The episodic return is  -995
+Selected target is  target2
+Agent has reached target2 after 24 steps.
+The episodic return is  48
+Selected target is  target2
+Agent has collided with fire after 7 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 19 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has reached target4 after 10 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target2 after 28 steps.
+The episodic return is  47
+Selected target is  target2
+Agent has collided with fire after 113 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  55
+Selected target is  target3
+Agent has collided with fire after 75 steps.
+The episodic return is  -989
+Selected target is  target1
+Agent has collided with fire after 15 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 13 steps.
+The episodic return is  48
+Selected target is  target4
+Agent has reached target4 after 3 steps.
+The episodic return is  22
+Selected target is  target4
+Agent has reached target4 after 8 steps.
+The episodic return is  37
+Selected target is  target2
+Agent has collided with fire after 51 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has collided with fire after 111 steps.
+The episodic return is  -987
+Selected target is  target4
+Agent has reached target2 after 21 steps.
+The episodic return is  16
+Selected target is  target2
+Agent has reached target2 after 28 steps.
+The episodic return is  44
+Selected target is  target2
+Agent has reached target3 after 18 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target2 after 34 steps.
+The episodic return is  61
+Selected target is  target4
+Agent has collided with fire after 16 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  40
+Selected target is  target1
+Agent has collided with fire after 18 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 45 steps.
+The episodic return is  -978
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  29
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  48
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  52
+Selected target is  target1
+Agent has collided with fire after 13 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has reached target3 after 28 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  42
+Selected target is  target2
+Agent has reached target2 after 10 steps.
+The episodic return is  31
+Selected target is  target3
+Agent has reached target4 after 8 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has collided with fire after 6 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 113 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 31 steps.
+The episodic return is  -996
+Selected target is  target3
+Agent has collided with fire after 19 steps.
+The episodic return is  -996
+Selected target is  target1
+Agent has collided with fire after 81 steps.
+The episodic return is  -996
+Selected target is  target4
+Agent has collided with fire after 39 steps.
+The episodic return is  -994
+Selected target is  target1
+Agent has collided with fire after 33 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  47
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  41
+Selected target is  target3
+Agent has reached target2 after 23 steps.
+The episodic return is  3
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  39
+Selected target is  target3
+Agent has reached target4 after 11 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target4 after 14 steps.
+The episodic return is  49
+Selected target is  target1
+Agent has collided with fire after 7 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 29 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target4 after 9 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has collided with fire after 93 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 159 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 27 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target4 after 7 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 47 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 30 steps.
+The episodic return is  -995
+Selected target is  target2
+Agent has reached target4 after 10 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has collided with fire after 31 steps.
+The episodic return is  -967
+Selected target is  target4
+Agent has reached target2 after 28 steps.
+The episodic return is  21
+Selected target is  target3
+Agent has collided with fire after 27 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 13 steps.
+The episodic return is  -997
+Selected target is  target2
+Agent has collided with fire after 113 steps.
+The episodic return is  -995
+Selected target is  target4
+Agent has reached target3 after 68 steps.
+The episodic return is  10
+Selected target is  target2
+Agent has reached target4 after 9 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has collided with fire after 53 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 25 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 15 steps.
+The episodic return is  -988
+Selected target is  target1
+Agent has collided with fire after 39 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 55 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 39 steps.
+The episodic return is  -985
+Selected target is  target2
+Agent has reached target2 after 28 steps.
+The episodic return is  45
+Selected target is  target1
+Agent has collided with fire after 45 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 8 steps.
+The episodic return is  34
+Selected target is  target3
+Agent has collided with fire after 137 steps.
+The episodic return is  -985
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  29
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  47
+Selected target is  target3
+Agent has reached target3 after 13 steps.
+The episodic return is  39
+Selected target is  target3
+Agent has collided with fire after 67 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 81 steps.
+The episodic return is  -972
+Selected target is  target2
+Agent has collided with fire after 59 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target4 after 17 steps.
+The episodic return is  11
+Selected target is  target3
+Agent has reached target4 after 12 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target2 after 28 steps.
+The episodic return is  46
+Selected target is  target1
+Agent has reached target4 after 10 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target2 after 24 steps.
+The episodic return is  16
+Selected target is  target3
+Agent has reached target2 after 28 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has collided with fire after 29 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 109 steps.
+The episodic return is  -995
+Selected target is  target3
+Agent has reached target2 after 25 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  35
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  37
+Selected target is  target3
+Agent has collided with fire after 89 steps.
+The episodic return is  -997
+Selected target is  target2
+Agent has collided with fire after 35 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has reached target2 after 25 steps.
+The episodic return is  51
+Selected target is  target4
+Agent has reached target4 after 7 steps.
+The episodic return is  46
+Selected target is  target2
+Agent has collided with fire after 59 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 33 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 16 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  38
+Selected target is  target3
+Agent has reached target4 after 10 steps.
+The episodic return is  4
+Selected target is  target3
+Agent has collided with fire after 13 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target2 after 17 steps.
+The episodic return is  4
+Selected target is  target1
+Agent has collided with fire after 17 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target4 after 8 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has collided with fire after 7 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 9 steps.
+The episodic return is  37
+Selected target is  target3
+Agent has reached target4 after 16 steps.
+The episodic return is  8
+Selected target is  target3
+Agent has reached target4 after 3 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 89 steps.
+The episodic return is  -999
+Selected target is  target2
+Agent has collided with fire after 9 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target2 after 26 steps.
+The episodic return is  16
+Selected target is  target2
+Agent has reached target4 after 11 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target3 after 17 steps.
+The episodic return is  47
+Selected target is  target4
+Agent has reached target4 after 9 steps.
+The episodic return is  45
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  36
+Selected target is  target4
+Agent has reached target2 after 26 steps.
+The episodic return is  25
+Selected target is  target3
+Agent has collided with fire after 71 steps.
+The episodic return is  -983
+Selected target is  target2
+Agent has reached target2 after 20 steps.
+The episodic return is  60
+Selected target is  target3
+Agent has collided with fire after 15 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target4 after 11 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has reached target4 after 11 steps.
+The episodic return is  2
+Selected target is  target1
+Agent has reached target3 after 13 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has collided with fire after 15 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has reached target2 after 26 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has collided with fire after 67 steps.
+The episodic return is  -997
+Selected target is  target3
+Agent has reached target4 after 9 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  45
+Selected target is  target1
+Agent has collided with fire after 11 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  28
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  45
+Selected target is  target2
+Agent has collided with fire after 201 steps.
+The episodic return is  -996
+Selected target is  target3
+Agent has collided with fire after 12 steps.
+The episodic return is  -999
+Selected target is  target4
+Agent has collided with fire after 15 steps.
+The episodic return is  -984
+Selected target is  target4
+Agent has reached target4 after 15 steps.
+The episodic return is  46
+Selected target is  target3
+Agent has collided with fire after 129 steps.
+The episodic return is  -993
+Selected target is  target4
+Agent has reached target4 after 4 steps.
+The episodic return is  37
+Selected target is  target2
+Agent has collided with fire after 5 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target2 after 24 steps.
+The episodic return is  50
+Selected target is  target3
+Agent has collided with fire after 153 steps.
+The episodic return is  -996
+Selected target is  target2
+Agent has collided with fire after 7 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target4 after 4 steps.
+The episodic return is  1
+Selected target is  target1
+Agent has reached target3 after 15 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target2 after 35 steps.
+The episodic return is  37
+Selected target is  target3
+Agent has reached target3 after 20 steps.
+The episodic return is  48
+Selected target is  target2
+Agent has collided with fire after 63 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target4 after 10 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target2 after 30 steps.
+The episodic return is  18
+Selected target is  target4
+Agent has reached target4 after 8 steps.
+The episodic return is  47
+Selected target is  target2
+Agent has collided with fire after 7 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target4 after 8 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 45 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 25 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has collided with fire after 41 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 8 steps.
+The episodic return is  54
+Selected target is  target4
+Agent has reached target2 after 20 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target4 after 8 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 7 steps.
+The episodic return is  -997
+Selected target is  target4
+Agent has reached target2 after 27 steps.
+The episodic return is  17
+Selected target is  target4
+Agent has reached target4 after 2 steps.
+The episodic return is  24
+Selected target is  target4
+Agent has collided with fire after 69 steps.
+The episodic return is  -994
+Selected target is  target3
+Agent has reached target2 after 28 steps.
+The episodic return is  3
+Selected target is  target3
+Agent has collided with fire after 57 steps.
+The episodic return is  -983
+Selected target is  target3
+Agent has reached target2 after 24 steps.
+The episodic return is  5
+Selected target is  target4
+Agent has reached target2 after 24 steps.
+The episodic return is  20
+Selected target is  target3
+Agent has reached target4 after 10 steps.
+The episodic return is  1
+Selected target is  target4
+Agent has reached target2 after 24 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has reached target2 after 21 steps.
+The episodic return is  50
+Selected target is  target4
+Agent has reached target4 after 8 steps.
+The episodic return is  36
+Selected target is  target1
+Agent has collided with fire after 47 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has collided with fire after 11 steps.
+The episodic return is  -997
+Selected target is  target3
+Agent has reached target4 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has reached target4 after 13 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has collided with fire after 28 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has reached target2 after 21 steps.
+The episodic return is  15
+Selected target is  target3
+Agent has collided with fire after 32 steps.
+The episodic return is  -958
+Selected target is  target4
+Agent has reached target4 after 11 steps.
+The episodic return is  44
+Selected target is  target3
+Agent has reached target3 after 13 steps.
+The episodic return is  41
+Selected target is  target1
+Agent has collided with fire after 91 steps.
+The episodic return is  -998
+Selected target is  target4
+Agent has reached target4 after 5 steps.
+The episodic return is  28
+Selected target is  target2
+Agent has reached target2 after 20 steps.
+The episodic return is  36
+Selected target is  target3
+Agent has reached target4 after 12 steps.
+The episodic return is  4
+Selected target is  target4
+Agent has reached target3 after 67 steps.
+The episodic return is  4
+Selected target is  target2
+Agent has collided with fire after 111 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target4 after 12 steps.
+The episodic return is  2
+Selected target is  target2
+Agent has collided with fire after 7 steps.
+The episodic return is  -998
+Selected target is  target3
+Agent has reached target3 after 8 steps.
+The episodic return is  31
+Selected target is  target4
+Agent has reached target4 after 6 steps.
+The episodic return is  43
+Selected target is  target1
+Agent has collided with fire after 11 steps.
+The episodic return is  -997
+Selected target is  target3
+Agent has collided with fire after 39 steps.
+The episodic return is  -991
+Selected target is  target1
+Agent has collided with fire after 23 steps.
+The episodic return is  -998
+Selected target is  target1
+Agent has collided with fire after 43 steps.
+The episodic return is  -999
+Selected target is  target1
+Agent has reached target4 after 13 steps.
+The episodic return is  2
+Selected target is  target3
+Agent has collided with fire after 75 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has collided with fire after 53 steps.
+The episodic return is  -996
+Selected target is  target3
+Agent has reached target3 after 13 steps.
+The episodic return is  61
+Selected target is  target1
+Agent has collided with fire after 18 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has collided with fire after 81 steps.
+The episodic return is  -974
+Selected target is  target2
+Agent has reached target4 after 5 steps.
+The episodic return is  1
+Selected target is  target3
+Agent has reached target4 after 13 steps.
+The episodic return is  3
+Selected target is  target1
+Agent has reached target4 after 10 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 12 steps.
+The episodic return is  -999
+Selected target is  target3
+Agent has reached target3 after 18 steps.
+The episodic return is  59
+Selected target is  target2
+Agent has reached target2 after 14 steps.
+The episodic return is  34
+Selected target is  target3
+Agent has reached target4 after 10 steps.
+The episodic return is  1
+Selected target is  target2
+Agent has collided with fire after 7 steps.
+The episodic return is  -996
+Selected target is  target2
+Agent has reached target4 after 11 steps.
+The episodic return is  2
+Selected target is  target4
+Agent has reached target2 after 24 steps.
+The episodic return is  25
+Selected target is  target2
+Agent has reached target2 after 29 steps.
+The episodic return is  43
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  39
+Selected target is  target1
+Agent has collided with fire after 29 steps.
+The episodic return is  -998
+Selected target is  target2
+Agent has reached target2 after 19 steps.
+The episodic return is  42
+Selected target is  target2
+Agent has reached target2 after 25 steps.
+The episodic return is  44
+Selected target is  target4
+Agent has reached target4 after 10 steps.
+The episodic return is  41
+Selected target is  target2
+Agent has reached target2 after 15 steps.
+The episodic return is  38
+Selected target is  target1
+Agent has collided with fire after 7 steps.
+The episodic return is  -998

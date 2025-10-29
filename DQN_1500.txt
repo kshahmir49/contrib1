@@ -1,0 +1,732 @@
+Executing the program with the following arguments
+ArgumentParser(prog='main.py', usage=None, description='crowd evacuation', formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+Namespace(aoi_size=100, load_pretrained=0, policy_type='DQN', time_steps=1500)
+Using GPU
+Target has reached wall3 after 188 steps.
+The episodic return is  0.8285367691502942
+The episode number is  0
+Exploited steps:  19
+Target has reached wall4 after 127 steps.
+The episodic return is  0.8806777104745708
+The episode number is  1
+Exploited steps:  12
+Target has reached wall4 after 82 steps.
+The episodic return is  0.9212341621210594
+The episode number is  2
+Exploited steps:  14
+Target has reached wall4 after 106 steps.
+The episodic return is  0.8993769480309569
+The episode number is  3
+Exploited steps:  14
+Target has reached wall1 after 120 steps.
+The episodic return is  0.8868671875860638
+The episode number is  4
+Exploited steps:  11
+Target has collided with fire after 11 steps.
+The episodic return is  -0.9890548353295384
+The episode number is  5
+Exploited steps:  2
+Target has collided with fire after 120 steps.
+The episodic return is  -0.8868671875860638
+The episode number is  6
+Exploited steps:  9
+Target has reached wall1 after 26 steps.
+The episodic return is  0.9743224148844496
+The episode number is  7
+Exploited steps:  7
+Target has collided with fire after 113 steps.
+The episodic return is  -0.893100164863915
+The episode number is  8
+Exploited steps:  20
+Target has collided with fire after 61 steps.
+The episodic return is  -0.9407945259609449
+The episode number is  9
+Exploited steps:  10
+Target has collided with fire after 375 steps.
+The episodic return is  -0.6871603381721799
+The episode number is  10
+Exploited steps:  48
+Target has reached wall4 after 113 steps.
+The episodic return is  0.893100164863915
+The episode number is  11
+Exploited steps:  11
+Target has reached wall4 after 325 steps.
+The episodic return is  0.7224098741663907
+The episode number is  12
+Exploited steps:  34
+Target has reached wall2 after 111 steps.
+The episodic return is  0.894889048071009
+The episode number is  13
+Exploited steps:  14
+Target has reached wall1 after 74 steps.
+The episodic return is  0.9286373107007021
+The episode number is  14
+Exploited steps:  10
+Target has collided with fire after 156 steps.
+The episodic return is  -0.8554924148377152
+The episode number is  15
+Exploited steps:  24
+Target has reached wall4 after 374 steps.
+The episodic return is  0.6878481863585385
+The episode number is  16
+Exploited steps:  54
+Target has reached wall3 after 44 steps.
+The episodic return is  0.9569328906720129
+The episode number is  17
+Exploited steps:  8
+Target has reached wall2 after 44 steps.
+The episodic return is  0.9569328906720129
+The episode number is  18
+Exploited steps:  12
+Target has collided with fire after 159 steps.
+The episodic return is  -0.8529285032149541
+The episode number is  19
+Exploited steps:  28
+Target has reached wall2 after 40 steps.
+The episodic return is  0.9607702107358118
+The episode number is  20
+Exploited steps:  5
+Target has collided with fire after 60 steps.
+The episodic return is  -0.9417362622231682
+The episode number is  21
+Exploited steps:  9
+Target has reached wall3 after 71 steps.
+The episodic return is  0.9314288037569907
+The episode number is  22
+Exploited steps:  10
+Target has reached wall3 after 84 steps.
+The episodic return is  0.9193926150309794
+The episode number is  23
+Exploited steps:  11
+Target has reached wall3 after 78 steps.
+The episodic return is  0.9249283295681429
+The episode number is  24
+Exploited steps:  12
+Target has reached wall3 after 154 steps.
+The episodic return is  0.8572059695708873
+The episode number is  25
+Exploited steps:  30
+Target has collided with fire after 130 steps.
+The episodic return is  -0.8780383184956008
+The episode number is  26
+Exploited steps:  21
+Target has collided with fire after 186 steps.
+The episodic return is  -0.8301963316171969
+The episode number is  27
+Exploited steps:  39
+Target has reached wall3 after 140 steps.
+The episodic return is  0.8692973418545458
+The episode number is  28
+Exploited steps:  28
+Target has reached wall3 after 81 steps.
+The episodic return is  0.9221563184394989
+The episode number is  29
+Exploited steps:  17
+Target has reached wall4 after 43 steps.
+The episodic return is  0.9578907814534663
+The episode number is  30
+Exploited steps:  5
+Target has collided with fire after 35 steps.
+The episodic return is  -0.9655885070369844
+The episode number is  31
+Exploited steps:  2
+Target has collided with fire after 24 steps.
+The episodic return is  -0.9762739865836302
+The episode number is  32
+Exploited steps:  5
+Target has reached wall3 after 57 steps.
+The episodic return is  0.9445671308589194
+The episode number is  33
+Exploited steps:  9
+Target has reached wall3 after 82 steps.
+The episodic return is  0.9212341621210594
+The episode number is  34
+Exploited steps:  18
+Target has reached wall1 after 233 steps.
+The episodic return is  0.7920612314455101
+The episode number is  35
+Exploited steps:  47
+Target has reached wall1 after 174 steps.
+The episodic return is  0.8402237462387887
+The episode number is  36
+Exploited steps:  38
+Target has collided with fire after 31 steps.
+The episodic return is  -0.9694605362958226
+The episode number is  37
+Exploited steps:  10
+Target has reached wall4 after 60 steps.
+The episodic return is  0.9417362622231682
+The episode number is  38
+Exploited steps:  12
+Target has collided with fire after 21 steps.
+The episodic return is  -0.9792086759647052
+The episode number is  39
+Exploited steps:  9
+Target has reached wall4 after 25 steps.
+The episodic return is  0.9752977125970466
+The episode number is  40
+Exploited steps:  5
+Target has reached wall1 after 154 steps.
+The episodic return is  0.8572059695708873
+The episode number is  41
+Exploited steps:  29
+Target has collided with fire after 30 steps.
+The episodic return is  -0.9704309672630858
+The episode number is  42
+Exploited steps:  12
+Target has reached wall4 after 74 steps.
+The episodic return is  0.9286373107007021
+The episode number is  43
+Exploited steps:  18
+Target has reached wall4 after 31 steps.
+The episodic return is  0.9694605362958226
+The episode number is  44
+Exploited steps:  3
+Target has reached wall4 after 65 steps.
+The episodic return is  0.9370369888620197
+The episode number is  45
+Exploited steps:  14
+Target has reached wall4 after 59 steps.
+The episodic return is  0.9426789411643325
+The episode number is  46
+Exploited steps:  11
+Target has reached wall4 after 122 steps.
+The episodic return is  0.8850943400780792
+The episode number is  47
+Exploited steps:  25
+Target has reached wall4 after 112 steps.
+The episodic return is  0.8939941590229379
+The episode number is  48
+Exploited steps:  30
+Target has reached wall4 after 40 steps.
+The episodic return is  0.9607702107358118
+The episode number is  49
+Exploited steps:  10
+Target has collided with fire after 36 steps.
+The episodic return is  -0.9646229185299474
+The episode number is  50
+Exploited steps:  12
+Target has reached wall3 after 110 steps.
+The episodic return is  0.8957848329039129
+The episode number is  51
+Exploited steps:  27
+Target has reached wall4 after 53 steps.
+The episodic return is  0.9483548639781192
+The episode number is  52
+Exploited steps:  13
+Target has reached wall4 after 37 steps.
+The episodic return is  0.9636582956114175
+The episode number is  53
+Exploited steps:  11
+Target has reached wall4 after 53 steps.
+The episodic return is  0.9483548639781192
+The episode number is  54
+Exploited steps:  10
+Target has collided with fire after 93 steps.
+The episodic return is  -0.9111511025165897
+The episode number is  55
+Exploited steps:  24
+Target has reached wall4 after 40 steps.
+The episodic return is  0.9607702107358118
+The episode number is  56
+Exploited steps:  12
+Target has collided with fire after 130 steps.
+The episodic return is  -0.8780383184956008
+The episode number is  57
+Exploited steps:  33
+Target has reached wall4 after 107 steps.
+The episodic return is  0.8984775710829259
+The episode number is  58
+Exploited steps:  33
+Target has reached wall3 after 128 steps.
+The episodic return is  0.8797970327640962
+The episode number is  59
+Exploited steps:  34
+Target has collided with fire after 47 steps.
+The episodic return is  -0.954064961841736
+The episode number is  60
+Exploited steps:  9
+Target has reached wall4 after 79 steps.
+The episodic return is  0.9240034012385747
+The episode number is  61
+Exploited steps:  17
+Target has reached wall2 after 228 steps.
+The episodic return is  0.7960334462988967
+The episode number is  62
+Exploited steps:  49
+Target has reached wall2 after 78 steps.
+The episodic return is  0.9249283295681429
+The episode number is  63
+Exploited steps:  19
+Target has reached wall1 after 40 steps.
+The episodic return is  0.9607702107358118
+The episode number is  64
+Exploited steps:  7
+Target has reached wall4 after 88 steps.
+The episodic return is  0.9157205572498945
+The episode number is  65
+Exploited steps:  22
+Target has collided with fire after 38 steps.
+The episodic return is  -0.9626946373158061
+The episode number is  66
+Exploited steps:  11
+Target has reached wall3 after 144 steps.
+The episodic return is  0.8658253647948586
+The episode number is  67
+Exploited steps:  42
+Target has reached wall1 after 19 steps.
+The episodic return is  0.981170034864399
+The episode number is  68
+Exploited steps:  4
+Target has collided with fire after 136 steps.
+The episodic return is  -0.8727832416118035
+The episode number is  69
+Exploited steps:  36
+Target has collided with fire after 58 steps.
+The episodic return is  -0.9436225637280605
+The episode number is  70
+Exploited steps:  16
+Target has reached wall3 after 156 steps.
+The episodic return is  0.8554924148377152
+The episode number is  71
+Exploited steps:  42
+Target has collided with fire after 84 steps.
+The episodic return is  -0.9193926150309794
+The episode number is  72
+Exploited steps:  20
+Target has reached wall3 after 91 steps.
+The episodic return is  0.912976141824096
+The episode number is  73
+Exploited steps:  25
+Target has collided with fire after 85 steps.
+The episodic return is  -0.9184732224159483
+The episode number is  74
+Exploited steps:  22
+Target has reached wall1 after 71 steps.
+The episodic return is  0.9314288037569907
+The episode number is  75
+Exploited steps:  14
+Target has reached wall2 after 74 steps.
+The episodic return is  0.9286373107007021
+The episode number is  76
+Exploited steps:  17
+Target has reached wall3 after 84 steps.
+The episodic return is  0.9193926150309794
+The episode number is  77
+Exploited steps:  25
+Target has reached wall3 after 65 steps.
+The episodic return is  0.9370369888620197
+The episode number is  78
+Exploited steps:  12
+Target has reached wall4 after 43 steps.
+The episodic return is  0.9578907814534663
+The episode number is  79
+Exploited steps:  16
+Target has reached wall3 after 72 steps.
+The episodic return is  0.9304973749532336
+The episode number is  80
+Exploited steps:  21
+Target has reached wall2 after 26 steps.
+The episodic return is  0.9743224148844496
+The episode number is  81
+Exploited steps:  11
+Target has reached wall3 after 46 steps.
+The episodic return is  0.9550199818235595
+The episode number is  82
+Exploited steps:  15
+Target has reached wall4 after 33 steps.
+The episodic return is  0.9675225846837673
+The episode number is  83
+Exploited steps:  12
+Target has reached wall4 after 136 steps.
+The episodic return is  0.8727832416118035
+The episode number is  84
+Exploited steps:  38
+Target has collided with fire after 159 steps.
+The episodic return is  -0.8529285032149541
+The episode number is  85
+Exploited steps:  50
+Target has reached wall2 after 119 steps.
+The episodic return is  0.8877549425285923
+The episode number is  86
+Exploited steps:  38
+Target has reached wall2 after 101 steps.
+The episodic return is  0.9038873549665952
+The episode number is  87
+Exploited steps:  25
+Target has reached wall2 after 164 steps.
+The episodic return is  0.8486723814588902
+The episode number is  88
+Exploited steps:  52
+Target has collided with fire after 57 steps.
+The episodic return is  -0.9445671308589194
+The episode number is  89
+Exploited steps:  21
+Target has collided with fire after 145 steps.
+The episodic return is  -0.8649595394300638
+The episode number is  90
+Exploited steps:  54
+Target has reached wall2 after 191 steps.
+The episodic return is  0.826053643624614
+The episode number is  91
+Exploited steps:  59
+Target has reached wall2 after 162 steps.
+The episodic return is  0.8503722756378904
+The episode number is  92
+Exploited steps:  46
+Target has reached wall4 after 42 steps.
+The episodic return is  0.9588496310845509
+The episode number is  93
+Exploited steps:  8
+Target has reached wall4 after 80 steps.
+The episodic return is  0.9230793978373362
+The episode number is  94
+Exploited steps:  21
+Target has reached wall4 after 81 steps.
+The episodic return is  0.9221563184394989
+The episode number is  95
+Exploited steps:  26
+Target has reached wall4 after 18 steps.
+The episodic return is  0.9821521870514505
+The episode number is  96
+Exploited steps:  9
+Target has collided with fire after 21 steps.
+The episodic return is  -0.9792086759647052
+The episode number is  97
+Exploited steps:  4
+Target has reached wall2 after 59 steps.
+The episodic return is  0.9426789411643325
+The episode number is  98
+Exploited steps:  20
+Target has reached wall4 after 129 steps.
+The episodic return is  0.8789172357313321
+The episode number is  99
+Exploited steps:  58
+Target has reached wall3 after 174 steps.
+The episodic return is  0.8402237462387887
+The episode number is  100
+Exploited steps:  58
+Target has reached wall3 after 116 steps.
+The episodic return is  0.8904235427767176
+The episode number is  101
+Exploited steps:  38
+Target has reached wall2 after 14 steps.
+The episodic return is  0.986090636999001
+The episode number is  102
+Exploited steps:  7
+Target has collided with fire after 209 steps.
+The episodic return is  -0.8113103927077341
+The episode number is  103
+Exploited steps:  74
+Target has reached wall3 after 123 steps.
+The episodic return is  0.8842092457380011
+The episode number is  104
+Exploited steps:  47
+Target has collided with fire after 73 steps.
+The episodic return is  -0.9295668775782804
+The episode number is  105
+Exploited steps:  26
+Target has reached wall3 after 101 steps.
+The episodic return is  0.9038873549665952
+The episode number is  106
+Exploited steps:  46
+Target has collided with fire after 58 steps.
+The episodic return is  -0.9436225637280605
+The episode number is  107
+Exploited steps:  18
+Target has collided with fire after 31 steps.
+The episodic return is  -0.9694605362958226
+The episode number is  108
+Exploited steps:  9
+Target has reached wall1 after 135 steps.
+The episodic return is  0.8736568985103138
+The episode number is  109
+Exploited steps:  53
+Target has reached wall1 after 26 steps.
+The episodic return is  0.9743224148844496
+The episode number is  110
+Exploited steps:  9
+Target has collided with fire after 41 steps.
+The episodic return is  -0.959809440525076
+The episode number is  111
+Exploited steps:  14
+Target has reached wall2 after 16 steps.
+The episodic return is  0.9841194418156399
+The episode number is  112
+Exploited steps:  5
+Target has reached wall2 after 136 steps.
+The episodic return is  0.8727832416118035
+The episode number is  113
+Exploited steps:  47
+Target has reached wall2 after 13 steps.
+The episodic return is  0.9870777147137147
+The episode number is  114
+Exploited steps:  9
+Target has reached wall1 after 33 steps.
+The episodic return is  0.9675225846837673
+The episode number is  115
+Exploited steps:  12
+Target has reached wall1 after 19 steps.
+The episodic return is  0.981170034864399
+The episode number is  116
+Exploited steps:  11
+Target has collided with fire after 38 steps.
+The episodic return is  -0.9626946373158061
+The episode number is  117
+Exploited steps:  17
+Target has reached wall3 after 7 steps.
+The episodic return is  0.993020965034979
+The episode number is  118
+Exploited steps:  3
+Target has collided with fire after 26 steps.
+The episodic return is  -0.9743224148844496
+The episode number is  119
+Exploited steps:  8
+Target has reached wall2 after 99 steps.
+The episodic return is  0.9056978449586677
+The episode number is  120
+Exploited steps:  35
+Target has reached wall1 after 44 steps.
+The episodic return is  0.9569328906720129
+The episode number is  121
+Exploited steps:  12
+Target has reached wall2 after 115 steps.
+The episodic return is  0.891314857634352
+The episode number is  122
+Exploited steps:  44
+Target has reached wall2 after 31 steps.
+The episodic return is  0.9694605362958226
+The episode number is  123
+Exploited steps:  14
+Target has reached wall4 after 138 steps.
+The episodic return is  0.8710385479118216
+The episode number is  124
+Exploited steps:  66
+Target has reached wall3 after 172 steps.
+The episodic return is  0.8419067177676062
+The episode number is  125
+Exploited steps:  43
+Target has reached wall2 after 120 steps.
+The episodic return is  0.8868671875860638
+The episode number is  126
+Exploited steps:  47
+Target has reached wall2 after 93 steps.
+The episodic return is  0.9111511025165897
+The episode number is  127
+Exploited steps:  43
+Target has reached wall2 after 149 steps.
+The episodic return is  0.861504887570607
+The episode number is  128
+Exploited steps:  58
+Target has reached wall2 after 102 steps.
+The episodic return is  0.9029834676116286
+The episode number is  129
+Exploited steps:  46
+Target has reached wall4 after 167 steps.
+The episodic return is  0.8461289094829856
+The episode number is  130
+Exploited steps:  72
+Target has reached wall4 after 30 steps.
+The episodic return is  0.9704309672630858
+The episode number is  131
+Exploited steps:  13
+Target has reached wall4 after 14 steps.
+The episodic return is  0.986090636999001
+The episode number is  132
+Exploited steps:  9
+Target has reached wall4 after 23 steps.
+The episodic return is  0.9772512378214517
+The episode number is  133
+Exploited steps:  11
+Target has reached wall4 after 93 steps.
+The episodic return is  0.9111511025165897
+The episode number is  134
+Exploited steps:  33
+Target has reached wall4 after 94 steps.
+The episodic return is  0.9102399514140731
+The episode number is  135
+Exploited steps:  38
+Target has reached wall2 after 47 steps.
+The episodic return is  0.954064961841736
+The episode number is  136
+Exploited steps:  23
+Target has collided with fire after 107 steps.
+The episodic return is  -0.8984775710829259
+The episode number is  137
+Exploited steps:  46
+Target has reached wall4 after 45 steps.
+The episodic return is  0.9559759577813408
+The episode number is  138
+Exploited steps:  23
+Target has reached wall2 after 47 steps.
+The episodic return is  0.954064961841736
+The episode number is  139
+Exploited steps:  19
+Target has reached wall4 after 8 steps.
+The episodic return is  0.992027944069944
+The episode number is  140
+Exploited steps:  5
+Target has collided with fire after 71 steps.
+The episodic return is  -0.9314288037569907
+The episode number is  141
+Exploited steps:  33
+Target has reached wall4 after 70 steps.
+The episodic return is  0.9323611649219126
+The episode number is  142
+Exploited steps:  34
+Target has collided with fire after 114 steps.
+The episodic return is  -0.8922070646990511
+The episode number is  143
+Exploited steps:  50
+Target has reached wall2 after 105 steps.
+The episodic return is  0.9002772252562131
+The episode number is  144
+Exploited steps:  48
+Target has reached wall2 after 99 steps.
+The episodic return is  0.9056978449586677
+The episode number is  145
+Exploited steps:  45
+Target has reached wall2 after 128 steps.
+The episodic return is  0.8797970327640962
+The episode number is  146
+Exploited steps:  49
+Target has collided with fire after 110 steps.
+The episodic return is  -0.8957848329039129
+The episode number is  147
+Exploited steps:  46
+Target has reached wall1 after 18 steps.
+The episodic return is  0.9821521870514505
+The episode number is  148
+Exploited steps:  7
+Target has collided with fire after 146 steps.
+The episodic return is  -0.8640945798906338
+The episode number is  149
+Exploited steps:  63
+Target has collided with fire after 66 steps.
+The episodic return is  -0.9360999518731576
+The episode number is  150
+Exploited steps:  28
+Target has reached wall1 after 85 steps.
+The episodic return is  0.9184732224159483
+The episode number is  151
+Exploited steps:  39
+Target has reached wall3 after 95 steps.
+The episodic return is  0.9093297114626591
+The episode number is  152
+Exploited steps:  44
+Target has reached wall1 after 20 steps.
+The episodic return is  0.9801888648295347
+The episode number is  153
+Exploited steps:  10
+Target has collided with fire after 87 steps.
+The episodic return is  -0.9166371944443389
+The episode number is  154
+Exploited steps:  38
+Target has reached wall1 after 213 steps.
+The episodic return is  0.8080700157548291
+The episode number is  155
+Exploited steps:  100
+Target has reached wall1 after 82 steps.
+The episodic return is  0.9212341621210594
+The episode number is  156
+Exploited steps:  34
+Target has collided with fire after 47 steps.
+The episodic return is  -0.954064961841736
+The episode number is  157
+Exploited steps:  25
+Target has reached wall4 after 20 steps.
+The episodic return is  0.9801888648295347
+The episode number is  158
+Exploited steps:  10
+Target has collided with fire after 24 steps.
+The episodic return is  -0.9762739865836302
+The episode number is  159
+Exploited steps:  7
+Target has collided with fire after 31 steps.
+The episodic return is  -0.9694605362958226
+The episode number is  160
+Exploited steps:  15
+Target has reached wall2 after 27 steps.
+The episodic return is  0.9733480924695651
+The episode number is  161
+Exploited steps:  13
+Target has reached wall4 after 31 steps.
+The episodic return is  0.9694605362958226
+The episode number is  162
+Exploited steps:  15
+Target has reached wall2 after 57 steps.
+The episodic return is  0.9445671308589194
+The episode number is  163
+Exploited steps:  26
+Target has reached wall2 after 205 steps.
+The episodic return is  0.8145637636371413
+The episode number is  164
+Exploited steps:  101
+Target has collided with fire after 193 steps.
+The episodic return is  -0.8244023623910083
+The episode number is  165
+Exploited steps:  88
+Target has reached wall2 after 41 steps.
+The episodic return is  0.959809440525076
+The episode number is  166
+Exploited steps:  24
+Target has collided with fire after 111 steps.
+The episodic return is  -0.894889048071009
+The episode number is  167
+Exploited steps:  50
+Target has collided with fire after 111 steps.
+The episodic return is  -0.894889048071009
+The episode number is  168
+Exploited steps:  48
+Target has reached wall4 after 51 steps.
+The episodic return is  0.9502544225688343
+The episode number is  169
+Exploited steps:  22
+Target has reached wall4 after 50 steps.
+The episodic return is  0.9512056281970314
+The episode number is  170
+Exploited steps:  21
+Target has collided with fire after 111 steps.
+The episodic return is  -0.894889048071009
+The episode number is  171
+Exploited steps:  52
+Target has collided with fire after 59 steps.
+The episodic return is  -0.9426789411643325
+The episode number is  172
+Exploited steps:  27
+Target has collided with fire after 118 steps.
+The episodic return is  -0.8886435861147071
+The episode number is  173
+Exploited steps:  56
+Target has reached wall4 after 58 steps.
+The episodic return is  0.9436225637280605
+The episode number is  174
+Exploited steps:  26
+Target has reached wall1 after 77 steps.
+The episodic return is  0.9258541837518948
+The episode number is  175
+Exploited steps:  38
+Target has collided with fire after 41 steps.
+The episodic return is  -0.959809440525076
+The episode number is  176
+Exploited steps:  22
+Target has collided with fire after 228 steps.
+The episodic return is  -0.7960334462988967
+The episode number is  177
+Exploited steps:  109
+Target has reached wall2 after 123 steps.
+The episodic return is  0.8842092457380011
+The episode number is  178
+Exploited steps:  47
+Target has reached wall1 after 58 steps.
+The episodic return is  0.9436225637280605
+The episode number is  179
+Exploited steps:  28
+Target has reached wall1 after 44 steps.
+The episodic return is  0.9569328906720129
+The episode number is  180
+Exploited steps:  21
+Target has reached wall4 after 86 steps.
+The episodic return is  0.9175547491935324
+The episode number is  181
+Exploited steps:  49
